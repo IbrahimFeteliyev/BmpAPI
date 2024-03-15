@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\bin\Debug\net8.0\Bmp.Core.deps.json
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\bin\Debug\net8.0\Bmp.Core.dll
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\bin\Debug\net8.0\Bmp.Core.pdb
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.sourcelink.json
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.dll
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\refint\Bmp.Core.dll
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.pdb
+C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\ref\Bmp.Core.dll

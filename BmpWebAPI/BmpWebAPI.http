@@ -1,0 +1,6 @@
+@BmpWebAPI_HostAddress = http://localhost:5211
+
+GET {{BmpWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

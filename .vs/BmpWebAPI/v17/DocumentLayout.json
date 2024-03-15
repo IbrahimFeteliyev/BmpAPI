@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.dataaccess\\concrete\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.entities\\dtos\\aboutdtos\\aboutadminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\aboutdtos\\aboutadminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.business\\abstarct\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmpwebapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.business\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.dataaccess\\concrete\\entityframework\\authdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\authdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.dataaccess\\abstarct\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\abstarct\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmpwebapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmpwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.business\\abstarct\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.entities\\dtos\\aboutdtos\\aboutadmindetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\aboutdtos\\aboutadmindetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.entities\\dtos\\aboutdtos\\aboutadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\aboutdtos\\aboutadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.entities\\dtos\\aboutdtos\\aboutadminlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\aboutdtos\\aboutadminlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.dataaccess\\concrete\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DA991E-E070-4200-A064-5452E5D43FD2}|Bmp.Core\\Bmp.Core.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.core\\security\\hasing\\hasinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DA991E-E070-4200-A064-5452E5D43FD2}|Bmp.Core\\Bmp.Core.csproj|solutionrelative:bmp.core\\security\\hasing\\hasinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DA991E-E070-4200-A064-5452E5D43FD2}|Bmp.Core\\Bmp.Core.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.core\\security\\tokenhandler\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DA991E-E070-4200-A064-5452E5D43FD2}|Bmp.Core\\Bmp.Core.csproj|solutionrelative:bmp.core\\security\\tokenhandler\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DA991E-E070-4200-A064-5452E5D43FD2}|Bmp.Core\\Bmp.Core.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.core\\security\\models\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DA991E-E070-4200-A064-5452E5D43FD2}|Bmp.Core\\Bmp.Core.csproj|solutionrelative:bmp.core\\security\\models\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmpwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmpwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.entities\\dtos\\aboutdtos\\aboutlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\aboutdtos\\aboutlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\source\\repos\\bmpwebapi\\bmp.business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAboutDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.DataAccess\\Abstarct\\IAboutDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Abstarct\\IAboutDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.DataAccess\\Abstarct\\IAboutDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Abstarct\\IAboutDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:59:54.612Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:39:26.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Business\\Concrete\\AboutManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\AboutManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Business\\Concrete\\AboutManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Concrete\\AboutManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:03:47.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthDal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\AuthDal.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\AuthDal.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\AuthDal.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\AuthDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:26:57.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:51:24.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Business\\Abstarct\\IAboutService.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Business\\Abstarct\\IAboutService.cs",
+              "RelativeToolTip": "Bmp.Business\\Abstarct\\IAboutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:59:32.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:34:28.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAddDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAddDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAddDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:03:03.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFAboutDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:20:19.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutAdminUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminUpdateDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:00:38.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Business\\Abstarct\\IAuthManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IAuthManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Business\\Abstarct\\IAuthManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Abstarct\\IAuthManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:31:46.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutAdminDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminDetailDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminDetailDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminDetailDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:05:59.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutAdminListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminListDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminListDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminListDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:15:18.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:20:40.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HasingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Core\\Security\\Hasing\\HasingHandler.cs",
+              "RelativeDocumentMoniker": "Bmp.Core\\Security\\Hasing\\HasingHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Core\\Security\\Hasing\\HasingHandler.cs",
+              "RelativeToolTip": "Bmp.Core\\Security\\Hasing\\HasingHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:25:06.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Core\\Security\\TokenHandler\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Bmp.Core\\Security\\TokenHandler\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Core\\Security\\TokenHandler\\TokenGenerator.cs",
+              "RelativeToolTip": "Bmp.Core\\Security\\TokenHandler\\TokenGenerator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:24:56.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JWTConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Core\\Security\\Models\\JWTConfig.cs",
+              "RelativeDocumentMoniker": "Bmp.Core\\Security\\Models\\JWTConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Core\\Security\\Models\\JWTConfig.cs",
+              "RelativeToolTip": "Bmp.Core\\Security\\Models\\JWTConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:24:54.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BmpWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\appsettings.json",
+              "RelativeToolTip": "BmpWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T08:23:51.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\BmpWebAPI\\Program.cs",
+              "RelativeToolTip": "BmpWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:24:23.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AboutListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutListDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutListDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutListDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:16:21.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Business\\Concrete\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\BmpWebAPI\\Bmp.Business\\Concrete\\AuthManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Concrete\\AuthManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:59:38.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
