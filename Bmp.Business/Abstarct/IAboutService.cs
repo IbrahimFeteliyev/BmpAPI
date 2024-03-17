@@ -10,6 +10,7 @@ namespace Bmp.Business.Abstarct
         Task<Core.Utilities.Results.Abstract.IResult> UpdateAboutByLanguageAsync(int Id, AboutAdminUpdateDTO aboutEditDTO, string webRootPath);
         Core.Utilities.Results.Abstract.IResult RemoveAbout(int id);
         IDataResult<List<AboutAdminListDTO>> GetAllAboutsAdmin(string langCode);
+        IDataResult<AboutAdminListDTO> GetAboutAdmin(string langCode);
         IDataResult<AboutAdminDetailDTO> GetAboutById(int id);
 
     }

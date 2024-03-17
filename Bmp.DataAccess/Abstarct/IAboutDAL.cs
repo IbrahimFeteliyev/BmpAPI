@@ -10,6 +10,7 @@ namespace Bmp.DataAccess.Abstarct
         Task<bool> AddAbout(AboutAddDTO aboutAddDTO, string webRootPath);
         Task<bool> UpdateAbout(int Id, AboutAdminUpdateDTO aboutEditDTO, string webRootPath);
         List<AboutAdminListDTO> GetAllAboutsAdminList(string langCode);
+        AboutAdminListDTO GetAboutAdmin(string langCode);
         AboutAdminDetailDTO GetAboutByIdAdmin(int id);
 
     }

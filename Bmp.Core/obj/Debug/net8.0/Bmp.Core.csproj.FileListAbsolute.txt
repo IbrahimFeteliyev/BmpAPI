@@ -11,3 +11,16 @@ C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.dll
 C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\refint\Bmp.Core.dll
 C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.pdb
 C:\Users\HP\source\repos\BmpWebAPI\Bmp.Core\obj\Debug\net8.0\ref\Bmp.Core.dll
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\bin\Debug\net8.0\Bmp.Core.deps.json
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\bin\Debug\net8.0\Bmp.Core.dll
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\bin\Debug\net8.0\Bmp.Core.pdb
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.csproj.AssemblyReference.cache
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.AssemblyInfoInputs.cache
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.AssemblyInfo.cs
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.csproj.CoreCompileInputs.cache
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.sourcelink.json
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.dll
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\refint\Bmp.Core.dll
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\Bmp.Core.pdb
+C:\CodingProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Debug\net8.0\ref\Bmp.Core.dll

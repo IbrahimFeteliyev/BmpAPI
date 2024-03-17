@@ -59,6 +59,19 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
 
             return result;
         }
+        public AboutAdminListDTO GetAboutAdmin(string langCode)
+        {
+            using var context = new AppDbContext();
+
+            var result = context.Abouts.Select(x => new AboutAdminListDTO
+            {
+                Id = x.Id,
+                Content = x.AboutLanguages.FirstOrDefault(x => x.LangCode == langCode).Content,
+                PhotoUrl = x.PhotoUrl,
+            }).FirstOrDefault();
+
+            return result;
+        }
 
         public List<AboutAdminListDTO> GetAllAboutsAdminList(string langCode)
         {

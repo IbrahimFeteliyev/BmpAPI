@@ -34,6 +34,11 @@ namespace Bmp.Business.DependencyResolver
             services.AddScoped<IAboutDAL, EFAboutDAL>();
             services.AddScoped<IAboutService, AboutManager>();
 
+            services.AddScoped<IIntroductionDAL, EFIntroductionDAL>();
+            services.AddScoped<IIntroductionService, IntroductionManager>();
+
+            services.AddScoped<IAdvantageDAL, EFAdvantageDAL>();
+            services.AddScoped<IAdvantageService, AdvantageManager>();
 
             var mapperConfig = new MapperConfiguration(mc =>
             {

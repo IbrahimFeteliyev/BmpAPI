@@ -30,6 +30,19 @@ namespace Bmp.Business.Concrete
             }
         }
 
+        public IDataResult<AboutAdminListDTO> GetAboutAdmin(string langCode)
+        {
+            try
+            {
+                var result = _aboutDAL.GetAboutAdmin(langCode);
+                return new SuccessDataResult<AboutAdminListDTO>(result, "Listed");
+            }
+            catch (Exception ex)
+            {
+                return new SuccessDataResult<AboutAdminListDTO>(ex.Message);
+            }
+        }
+
         public IDataResult<AboutAdminDetailDTO> GetAboutById(int id)
         {
             var result = _aboutDAL.GetAboutByIdAdmin(id);

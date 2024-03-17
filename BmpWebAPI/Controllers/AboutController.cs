@@ -18,10 +18,21 @@ namespace Bmp.WebAPI.Controllers
             _env = env;
         }
 
-        [HttpGet]
+        [HttpGet("GetAllAbouts")]
         public IActionResult GetAbouts(string langCode)
         {
             var result = _aboutService.GetAllAboutsAdmin(langCode);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+
+        [HttpGet]
+        public IActionResult GetAbout(string langCode)
+        {
+            var result = _aboutService.GetAboutAdmin(langCode);
             if (result.Success)
             {
                 return Ok(result);
@@ -41,7 +52,7 @@ namespace Bmp.WebAPI.Controllers
 
         }
         [HttpGet("GetAboutById/{id}")]
-        public IActionResult GetShortInfoById(int id)
+        public IActionResult GetAboutById(int id)
         {
             var result = _aboutService.GetAboutById(id);
             if (result.Success)
