@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Bmp.WebAPI.csproj": {}
+    "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Bmp.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj": {
+    "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj",
         "projectName": "Bmp.Business",
-        "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj",
-        "packagesPath": "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IbrahimFeteliyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
-                "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
+              "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
               },
-              "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj": {
-                "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj"
+              "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj"
               }
             }
           }
@@ -81,17 +81,17 @@
         }
       }
     },
-    "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
+    "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj",
         "projectName": "Bmp.Core",
-        "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj",
-        "packagesPath": "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IbrahimFeteliyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,17 +155,17 @@
         }
       }
     },
-    "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj": {
+    "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj",
         "projectName": "Bmp.DataAccess",
-        "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IbrahimFeteliyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -179,11 +179,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
-                "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
+              "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
               },
-              "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj": {
-                "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj"
+              "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj"
               }
             }
           }
@@ -244,17 +244,17 @@
         }
       }
     },
-    "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj": {
+    "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj",
         "projectName": "Bmp.Entities",
-        "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj",
-        "packagesPath": "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IbrahimFeteliyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -268,8 +268,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
-                "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
+              "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
               }
             }
           }
@@ -314,17 +314,17 @@
         }
       }
     },
-    "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Bmp.WebAPI.csproj": {
+    "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Bmp.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Bmp.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Bmp.WebAPI.csproj",
         "projectName": "Bmp.WebAPI",
-        "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Bmp.WebAPI.csproj",
-        "packagesPath": "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Bmp.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IbrahimFeteliyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -338,11 +338,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj": {
-                "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj"
+              "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\Bmp.Business.csproj"
               },
-              "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
-                "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
+              "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
               }
             }
           }

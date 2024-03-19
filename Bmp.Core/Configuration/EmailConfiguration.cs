@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using Bmp.Core.Entity.Models;
+using Microsoft.Extensions.Configuration;
 
 namespace Bmp.Core.Configuration
 {
@@ -11,7 +12,7 @@ namespace Bmp.Core.Configuration
         private static ConfigurationManager GetConfiguration()
         {
             ConfigurationManager manager = new();
-            manager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../Bmp.WebAPI"));
+            manager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../BmpWebAPI"));
             manager.AddJsonFile("appsettings.json");
             return manager;
         }

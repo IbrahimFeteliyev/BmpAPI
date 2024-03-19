@@ -15,7 +15,7 @@ namespace Bmp.DataAccess.Abstarct
         Task<bool> AddIntroduction(IntroductionAddDTO introductionAddDTO, string webRootPath);
         Task<bool> UpdateIntroduction(int Id, IntroductionAdminUpdateDTO introductionEditDTO, string webRootPath);
         IntroductionAdminListDTO GetIntroductionAdmin(string langCode);
-        IntroductionAdminDetailDTO GetIntroductionByIdAdmin(int id);
+        IntroductionAdminDetailDTO GetIntroductionByIdAdmin(int Id);
 
     }
 }

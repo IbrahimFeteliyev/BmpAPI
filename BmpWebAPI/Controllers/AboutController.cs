@@ -27,6 +27,9 @@ namespace Bmp.WebAPI.Controllers
                 return Ok(result);
             }
             return BadRequest(result);
+
+
+
         }
 
         [HttpGet]

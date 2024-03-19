@@ -43,7 +43,7 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
             }
         }
 
-        public AdvantageAdminDetailDTO GetAdvantageByIdAdmin(int id)
+        public AdvantageAdminDetailDTO GetAdvantageByIdAdmin(int Id)
         {
             using var context = new AppDbContext();
 
@@ -55,7 +55,7 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                     Title = x.AdvantageLanguages.Select(x => x.Title).ToList(),
                     CreatedDate = x.CreatedDate,
                     UpdatedDate = x.UpdatedDate
-                }).FirstOrDefault(x => x.Id == id);
+                }).FirstOrDefault(x => x.Id == Id);
 
             return result;
         }

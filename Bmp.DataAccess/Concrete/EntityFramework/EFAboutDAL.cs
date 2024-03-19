@@ -43,7 +43,7 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
             }
         }
 
-        public AboutAdminDetailDTO GetAboutByIdAdmin(int id)
+        public AboutAdminDetailDTO GetAboutByIdAdmin(int Id)
         {
             using var context = new AppDbContext();
 
@@ -55,7 +55,7 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                     Content = x.AboutLanguages.Select(x => x.Content).ToList(),
                     CreatedDate = x.CreatedDate,
                     UpdatedDate = x.UpdatedDate
-                }).FirstOrDefault(x => x.Id == id);
+                }).FirstOrDefault(x => x.Id == Id);
 
             return result;
         }

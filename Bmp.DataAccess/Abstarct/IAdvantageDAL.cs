@@ -10,6 +10,6 @@ namespace Bmp.DataAccess.Abstarct
         Task<bool> AddAdvantage(AdvantageAddDTO advantageAddDTO, string webRootPath);
         Task<bool> UpdateAdvantage(int Id, AdvantageAdminUpdateDTO advantageEditDTO, string webRootPath);
         List<AdvantageAdminListDTO> GetAllAdvantagesAdminList(string langCode);
-        AdvantageAdminDetailDTO GetAdvantageByIdAdmin(int id);
+        AdvantageAdminDetailDTO GetAdvantageByIdAdmin(int Id);
     }
 }

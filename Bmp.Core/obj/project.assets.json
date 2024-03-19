@@ -1124,19 +1124,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj",
       "projectName": "Bmp.Core",
-      "projectPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj",
-      "packagesPath": "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\",
-      "outputPath": "C:\\CodingProjects\\AzeraProjects\\BmpAPI\\Bmp.Core\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IbrahimFeteliyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
