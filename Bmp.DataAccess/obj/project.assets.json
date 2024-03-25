@@ -154,12 +154,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -211,12 +211,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -271,12 +271,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -333,12 +333,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -402,12 +402,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtimeTargets": {
@@ -916,12 +916,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -4040,19 +4040,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj",
+      "projectUniqueName": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj",
       "projectName": "Bmp.DataAccess",
-      "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.DataAccess\\obj\\",
+      "projectPath": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Bmp.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\IbrahimFeteliyev\\.nuget\\packages\\",
+      "outputPath": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IbrahimFeteliyev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4066,11 +4066,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
+            "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj": {
+              "projectPath": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Core\\Bmp.Core.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj"
+            "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj": {
+              "projectPath": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj"
             }
           }
         }

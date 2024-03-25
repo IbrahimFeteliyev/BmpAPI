@@ -2,6 +2,7 @@
 using Bmp.Core.Helper;
 using Bmp.DataAccess.Abstarct;
 using Bmp.Entities.Concrete;
+using Bmp.Entities.DTOs.AboutDTOs;
 using Bmp.Entities.DTOs.IntroductionDTOs;
 using Microsoft.EntityFrameworkCore;
 
@@ -70,6 +71,21 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 Description = x.IntroductionLanguages.FirstOrDefault(x => x.LangCode == langCode).Description,
                 PhotoUrl = x.PhotoUrl,
             }).FirstOrDefault();
+
+            return result;
+        }
+
+        public List<IntroductionAdminListDTO> GetAllIntroductionsAdminList(string langCode)
+        {
+            using var context = new AppDbContext();
+
+            var result = context.Introductions.Select(x => new IntroductionAdminListDTO
+            {
+                Id = x.Id,
+                Title = x.IntroductionLanguages.FirstOrDefault(x => x.LangCode == langCode).Title,
+                Description = x.IntroductionLanguages.FirstOrDefault(x => x.LangCode == langCode).Description,
+                PhotoUrl = x.PhotoUrl,
+            }).ToList();
 
             return result;
         }

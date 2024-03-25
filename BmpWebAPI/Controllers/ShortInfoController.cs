@@ -16,8 +16,8 @@ namespace Bmp.WebAPI.Controllers
         }
 
 
-        [HttpGet]
-        public IActionResult GetShortInfos(string langCode)
+        [HttpGet("GetAllShortInfos")]
+        public IActionResult GetAllShortInfos(string langCode)
         {
             var result = _shortInfoService.GetAllShortInfosAdmin(langCode);
             if (result.Success)

@@ -19,7 +19,7 @@ namespace Bmp.WebAPI.Controllers
         }
 
         [HttpGet("GetAllAbouts")]
-        public IActionResult GetAbouts(string langCode)
+        public IActionResult GetAllAbouts(string langCode)
         {
             var result = _aboutService.GetAllAboutsAdmin(langCode);
             if (result.Success)
@@ -27,12 +27,9 @@ namespace Bmp.WebAPI.Controllers
                 return Ok(result);
             }
             return BadRequest(result);
-
-
-
         }
 
-        [HttpGet]
+        [HttpGet("GetAbout")]
         public IActionResult GetAbout(string langCode)
         {
             var result = _aboutService.GetAboutAdmin(langCode);

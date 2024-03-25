@@ -9,6 +9,7 @@ namespace Bmp.Business.Abstarct
         Task<Core.Utilities.Results.Abstract.IResult> AddIntroductionByLanguageAsync(IntroductionAddDTO introductionAddDTO, string webRootPath);
         Task<Core.Utilities.Results.Abstract.IResult> UpdateIntroductionByLanguageAsync(int Id, IntroductionAdminUpdateDTO introductionEditDTO, string webRootPath);
         Core.Utilities.Results.Abstract.IResult RemoveIntroduction(int id);
+        IDataResult<List<IntroductionAdminListDTO>> GetAllIntroductionsAdmin(string langCode);
         IDataResult<IntroductionAdminListDTO> GetIntroductionAdmin(string langCode);
         IDataResult<IntroductionAdminDetailDTO> GetIntroductionById(int id);
     }

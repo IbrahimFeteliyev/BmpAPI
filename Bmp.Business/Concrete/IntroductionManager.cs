@@ -30,6 +30,19 @@ namespace Bmp.Business.Concrete
             }
         }
 
+        public IDataResult<List<IntroductionAdminListDTO>> GetAllIntroductionsAdmin(string langCode)
+        {
+            try
+            {
+                var result = _introductionDAL.GetAllIntroductionsAdminList(langCode);
+                return new SuccessDataResult<List<IntroductionAdminListDTO>>(result, "Listed");
+            }
+            catch (Exception ex)
+            {
+                return new ErrorDataResult<List<IntroductionAdminListDTO>>(ex.Message);
+            }
+        }
+
         public IDataResult<IntroductionAdminListDTO> GetIntroductionAdmin(string langCode)
         {
             try

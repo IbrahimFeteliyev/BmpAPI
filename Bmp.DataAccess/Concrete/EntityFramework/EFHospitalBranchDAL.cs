@@ -144,12 +144,15 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 using var context = new AppDbContext();
                 var hospitalBranch = context.HospitalBranchs.FirstOrDefault(x => x.Id == hospitalBranchUpdateDTO.Id);
 
-                if (hospitalBranch == null)
-                {
-                    return false;
-                }
+                //if (hospitalBranch == null)
+                //{
+                //    return false;
+                //}
 
-                hospitalBranch.CoverPhoto = await hospitalBranchUpdateDTO.CoverPhoto.SaveFileAsync(webRootPath);
+                if (hospitalBranchUpdateDTO.CoverPhoto != null)
+                {
+                    hospitalBranch.CoverPhoto = await hospitalBranchUpdateDTO.CoverPhoto.SaveFileAsync(webRootPath);
+                }
 
                 /////////////////////////////////////////////////////////////////////// 
 
@@ -162,15 +165,18 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 context.HospitalBranchLanguages.UpdateRange(hospitalBranchLanguages);
 
                 ///////////////////////////////////////////////////////////////////////
-                
 
-                var hospitalBranchPhotos = context.HospitalBranchPhotos.Where(x => x.HospitalBranchId == hospitalBranch.Id).ToList();
-
-                for (int i = 0; i < hospitalBranchPhotos.Count; i++)
+                if (hospitalBranchUpdateDTO.PhotoUrl != null)
                 {
-                    hospitalBranchPhotos[i].PhotoUrl = await hospitalBranchUpdateDTO.PhotoUrl[i].SaveFileAsync(webRootPath);
+                    var hospitalBranchPhotos = context.HospitalBranchPhotos.Where(x => x.HospitalBranchId == hospitalBranch.Id).ToList();
+
+                    for (int i = 0; i < hospitalBranchPhotos.Count; i++)
+                    {
+                        hospitalBranchPhotos[i].PhotoUrl = await hospitalBranchUpdateDTO.PhotoUrl[i].SaveFileAsync(webRootPath);
+                    }
+                    context.HospitalBranchPhotos.UpdateRange(hospitalBranchPhotos);
                 }
-                context.HospitalBranchPhotos.UpdateRange(hospitalBranchPhotos);
+                
 
                 ///////////////////////////////////////////////////////////////////////
 
@@ -179,7 +185,10 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 for (int i = 0; i < hospitalBranchFeatures.Count; i++)
                 {
                     hospitalBranchFeatures[i].Count = hospitalBranchUpdateDTO.HospitalBranchFeatures[i].Count;
-                    hospitalBranchFeatures[i].PhotoUrl = await hospitalBranchUpdateDTO.HospitalBranchFeatures[i].FeaturePhotoUrl.SaveFileAsync(webRootPath);
+                    if (hospitalBranchUpdateDTO.HospitalBranchFeatures[i].FeaturePhotoUrl != null)
+                    {
+                        hospitalBranchFeatures[i].PhotoUrl = await hospitalBranchUpdateDTO.HospitalBranchFeatures[i].FeaturePhotoUrl.SaveFileAsync(webRootPath);
+                    }
                     for (int j = 0; j < hospitalBranchFeatures[i].HospitalBranchFeatureLanguages.Count; j++)
                     {
                         hospitalBranchFeatures[i].HospitalBranchFeatureLanguages[j].Description = hospitalBranchUpdateDTO.HospitalBranchFeatures[i].FeatureDescription[j];
@@ -193,9 +202,11 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.ToString());
                 return false;
             }
         }
+
 
     }
 }

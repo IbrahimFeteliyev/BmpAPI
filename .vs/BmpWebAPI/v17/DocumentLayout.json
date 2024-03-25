@@ -1,29 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\",
+  "WorkspaceRootPath": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\azera\\bmpapi\\bmpwebapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\dtos\\mapdtos\\mapadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\mapdtos\\mapadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\dtos\\mapdtos\\mapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\mapdtos\\mapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\dtos\\shortinfodtos\\shortinfoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\shortinfodtos\\shortinfoadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\concrete\\shortinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\shortinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\bmp.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\bmp.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmpwebapi\\controllers\\introductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\introductioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmpwebapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\azera\\bmpapi\\bmp.entities\\concrete\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.business\\concrete\\introductionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\introductionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\azera\\bmpapi\\bmpwebapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.business\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.business\\abstarct\\iintroductionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\iintroductionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.business\\abstarct\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efintroductiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efintroductiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.dataaccess\\abstarct\\iintroductiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\abstarct\\iintroductiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.dataaccess\\abstarct\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\abstarct\\iaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efhospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efhospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmpwebapi\\controllers\\shortinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\shortinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmpwebapi\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmpwebapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\azera\\bmpapi\\bmpwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.business\\abstarct\\ishortinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\ishortinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efshortinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efshortinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmpwebapi\\controllers\\advantagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\advantagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\concrete\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.business\\concrete\\hospitalbranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\hospitalbranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\dtos\\aboutdtos\\aboutadminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\aboutdtos\\aboutadminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmpwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\azera\\bmpapi\\bmp.business\\dependencyresolver\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.business\\dependencyresolver\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\dependencyresolver\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\api\\azera\\bmpapi\\bmp.business\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\codingprojects\\azeraprojects\\22.3.24\\bmpapi\\bmp.business\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,40 +134,354 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "BmpWebAPI\\Controllers\\AboutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "DocumentIndex": 24,
+              "Title": "HospitalBranchUpdateDTO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchUpdateDTO.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchUpdateDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T07:53:11.902Z",
+              "WhenOpened": "2024-03-22T11:43:58.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EFHospitalBranchDAL.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwJcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:31:16.874Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapAdminDTO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\MapDTOs\\MapAdminDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\MapDTOs\\MapAdminDTO.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\MapDTOs\\MapAdminDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\MapDTOs\\MapAdminDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T07:41:40.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MapDTO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\MapDTOs\\MapDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\MapDTOs\\MapDTO.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\MapDTOs\\MapDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\MapDTOs\\MapDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T07:41:36.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShortInfoAddDTO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\ShortInfoDTOs\\ShortInfoAddDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\ShortInfoDTOs\\ShortInfoAddDTO.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\ShortInfoDTOs\\ShortInfoAddDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\ShortInfoDTOs\\ShortInfoAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:52:02.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortInfo.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\Concrete\\ShortInfo.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\ShortInfo.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\Concrete\\ShortInfo.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\ShortInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:51:52.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bmp.Entities.csproj",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Bmp.Entities.csproj",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\Bmp.Entities.csproj",
+              "RelativeToolTip": "Bmp.Entities\\Bmp.Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T17:51:47.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntroductionManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Concrete\\IntroductionManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\IntroductionManager.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Concrete\\IntroductionManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Concrete\\IntroductionManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:34:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Abstarct\\IAboutService.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IAboutService.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Abstarct\\IAboutService.cs",
+              "RelativeToolTip": "Bmp.Business\\Abstarct\\IAboutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:12:25.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IIntroductionService.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Abstarct\\IIntroductionService.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IIntroductionService.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Abstarct\\IIntroductionService.cs",
+              "RelativeToolTip": "Bmp.Business\\Abstarct\\IIntroductionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:33:18.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:53:11.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntroductionController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\IntroductionController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\IntroductionController.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\IntroductionController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\IntroductionController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:14:25.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IIntroductionDAL.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IIntroductionDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Abstarct\\IIntroductionDAL.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IIntroductionDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Abstarct\\IIntroductionDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:32:17.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAboutDAL.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IAboutDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Abstarct\\IAboutDAL.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IAboutDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Abstarct\\IAboutDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:32:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EFAboutDAL.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:29:40.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Concrete\\AboutManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\AboutManager.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Concrete\\AboutManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Concrete\\AboutManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:18:33.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EFIntroductionDAL.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFIntroductionDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFIntroductionDAL.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFIntroductionDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFIntroductionDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:16:16.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShortInfoController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\ShortInfoController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\ShortInfoController.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\ShortInfoController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\ShortInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:18:47.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\MapController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\MapController.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\MapController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\MapController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:19:42.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HospitalBranchController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\HospitalBranchController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\HospitalBranchController.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\HospitalBranchController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\HospitalBranchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:13:41.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IShortInfoService.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Abstarct\\IShortInfoService.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IShortInfoService.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Abstarct\\IShortInfoService.cs",
+              "RelativeToolTip": "Bmp.Business\\Abstarct\\IShortInfoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:18:29.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EFShortInfoDAL.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFShortInfoDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFShortInfoDAL.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFShortInfoDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFShortInfoDAL.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:17:48.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdvantageController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\AdvantageController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\AdvantageController.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\AdvantageController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\AdvantageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:13:57.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:49:18.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Concrete\\Doctor.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\Concrete\\Doctor.cs",
               "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\Doctor.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Entities\\Concrete\\Doctor.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\Concrete\\Doctor.cs",
               "RelativeToolTip": "Bmp.Entities\\Concrete\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T07:30:23.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
+              "Title": "HospitalBranchDetailDTO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchDetailDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchDetailDTO.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchDetailDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:04:17.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AboutAdminUpdateDTO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminUpdateDTO.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminUpdateDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\AboutDTOs\\AboutAdminUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:29:17.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HospitalBranchManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Concrete\\HospitalBranchManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\HospitalBranchManager.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\Concrete\\HospitalBranchManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Concrete\\HospitalBranchManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T17:37:54.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\AutoMapper\\MappingProfile.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\AutoMapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Bmp.Business\\AutoMapper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\AutoMapper\\MappingProfile.cs",
               "RelativeToolTip": "Bmp.Business\\AutoMapper\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,11 +489,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 29,
               "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
               "RelativeToolTip": "Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,23 +501,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HospitalBranchController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Controllers\\HospitalBranchController.cs",
-              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\HospitalBranchController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Controllers\\HospitalBranchController.cs",
-              "RelativeToolTip": "BmpWebAPI\\Controllers\\HospitalBranchController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T07:13:41.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 28,
               "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Controllers\\DepartmentController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\API\\Azera\\BmpAPI\\BmpWebAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\CodingProjects\\AzeraProjects\\22.3.24\\BmpAPI\\BmpWebAPI\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "BmpWebAPI\\Controllers\\DepartmentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

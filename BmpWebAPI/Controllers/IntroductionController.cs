@@ -17,8 +17,18 @@ namespace Bmp.WebAPI.Controllers
             _env = env;
         }
 
-
-        [HttpGet]
+        [HttpGet("GetAllIntroductions")]
+        public IActionResult GetAllIntroductions(string langCode)
+        {
+            var result = _introductionService.GetAllIntroductionsAdmin(langCode);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+        
+        [HttpGet("GetIntroduction")]
         public IActionResult GetIntroduction(string langCode)
         {
             var result = _introductionService.GetIntroductionAdmin(langCode);

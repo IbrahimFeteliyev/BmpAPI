@@ -16,8 +16,8 @@ namespace Bmp.WebAPI.Controllers
             _MapService = MapService;
         }
 
-        [HttpGet("GetMapsAdmin")]
-        public IActionResult GetMapsAdmin()
+        [HttpGet("GetAllMaps")]
+        public IActionResult GetAllMapsAdmin()
         {
             var result = _MapService.GetAllMapsAdmin();
             if (result.Success)

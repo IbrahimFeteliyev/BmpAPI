@@ -1,22 +1,6 @@
 [
   {
     "ContainingType": "Bmp.WebAPI.Controllers.AboutController",
-    "Method": "GetAbout",
-    "RelativePath": "api/About",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "langCode",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Bmp.WebAPI.Controllers.AboutController",
     "Method": "CreateAbout",
     "RelativePath": "api/About/CreateAbout",
     "HttpMethod": "POST",
@@ -43,6 +27,22 @@
   },
   {
     "ContainingType": "Bmp.WebAPI.Controllers.AboutController",
+    "Method": "GetAbout",
+    "RelativePath": "api/About/GetAbout",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "langCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bmp.WebAPI.Controllers.AboutController",
     "Method": "GetAboutById",
     "RelativePath": "api/About/GetAboutById/{id}",
     "HttpMethod": "GET",
@@ -59,7 +59,7 @@
   },
   {
     "ContainingType": "Bmp.WebAPI.Controllers.AboutController",
-    "Method": "GetAbouts",
+    "Method": "GetAllAbouts",
     "RelativePath": "api/About/GetAllAbouts",
     "HttpMethod": "GET",
     "IsController": true,
@@ -457,22 +457,6 @@
   },
   {
     "ContainingType": "Bmp.WebAPI.Controllers.HospitalBranchController",
-    "Method": "GetHospitalBranchs",
-    "RelativePath": "api/HospitalBranch",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "langCode",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Bmp.WebAPI.Controllers.HospitalBranchController",
     "Method": "CreateHospitalBranch",
     "RelativePath": "api/HospitalBranch/CreateHospitalBranch",
     "HttpMethod": "POST",
@@ -514,6 +498,22 @@
   },
   {
     "ContainingType": "Bmp.WebAPI.Controllers.HospitalBranchController",
+    "Method": "GetAllHospitalBranchs",
+    "RelativePath": "api/HospitalBranch/GetAllHospitalBranchs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "langCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bmp.WebAPI.Controllers.HospitalBranchController",
     "Method": "GetHospitalBranchById",
     "RelativePath": "api/HospitalBranch/GetHospitalBranchById/{id}",
     "HttpMethod": "GET",
@@ -547,7 +547,7 @@
   {
     "ContainingType": "Bmp.WebAPI.Controllers.HospitalBranchController",
     "Method": "UpdateHospitalBranch",
-    "RelativePath": "api/HospitalBranch/UpdateHospitalBranch/{id}",
+    "RelativePath": "api/HospitalBranch/UpdateHospitalBranch/{Id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -587,22 +587,6 @@
   },
   {
     "ContainingType": "Bmp.WebAPI.Controllers.IntroductionController",
-    "Method": "GetIntroduction",
-    "RelativePath": "api/Introduction",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "langCode",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Bmp.WebAPI.Controllers.IntroductionController",
     "Method": "CreateIntroduction",
     "RelativePath": "api/Introduction/CreateIntroduction",
     "HttpMethod": "POST",
@@ -627,6 +611,38 @@
       {
         "Name": "LangCode",
         "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bmp.WebAPI.Controllers.IntroductionController",
+    "Method": "GetAllIntroductions",
+    "RelativePath": "api/Introduction/GetAllIntroductions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "langCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bmp.WebAPI.Controllers.IntroductionController",
+    "Method": "GetIntroduction",
+    "RelativePath": "api/Introduction/GetIntroduction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "langCode",
+        "Type": "System.String",
         "IsRequired": false
       }
     ],
@@ -713,6 +729,16 @@
   },
   {
     "ContainingType": "Bmp.WebAPI.Controllers.MapController",
+    "Method": "GetAllMapsAdmin",
+    "RelativePath": "api/Map/GetAllMaps",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bmp.WebAPI.Controllers.MapController",
     "Method": "GetMapAdminById",
     "RelativePath": "api/Map/GetMapAdminById/{id}",
     "HttpMethod": "GET",
@@ -725,16 +751,6 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Bmp.WebAPI.Controllers.MapController",
-    "Method": "GetMapsAdmin",
-    "RelativePath": "api/Map/GetMapsAdmin",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -850,22 +866,6 @@
   },
   {
     "ContainingType": "Bmp.WebAPI.Controllers.ShortInfoController",
-    "Method": "GetShortInfos",
-    "RelativePath": "api/ShortInfo",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "langCode",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Bmp.WebAPI.Controllers.ShortInfoController",
     "Method": "CreateShortInfo",
     "RelativePath": "api/ShortInfo/CreateShortInfo",
     "HttpMethod": "POST",
@@ -876,6 +876,22 @@
         "Name": "shortInfoAddDTO",
         "Type": "Bmp.Entities.DTOs.ShortInfoDTOs.ShortInfoAddDTO",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bmp.WebAPI.Controllers.ShortInfoController",
+    "Method": "GetAllShortInfos",
+    "RelativePath": "api/ShortInfo/GetAllShortInfos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "langCode",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

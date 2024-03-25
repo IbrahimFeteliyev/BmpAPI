@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bmp.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f5b0ac5f682ff6b090ff335fe83dd9d1091a9ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fae3a33f352c9e6290f9c35c858b8fa5d165fbe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bmp.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bmp.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

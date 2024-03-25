@@ -18,8 +18,8 @@ namespace Bmp.WebAPI.Controllers
             _env = env;
         }
 
-        [HttpGet]
-        public IActionResult GetHospitalBranchs(string langCode)
+        [HttpGet("GetAllHospitalBranchs")]
+        public IActionResult GetAllHospitalBranchs(string langCode)
         {
             var result = _hospitalBranchService.GetAllHospitalBranchs(langCode);
             if (result.Success)
@@ -41,7 +41,7 @@ namespace Bmp.WebAPI.Controllers
 
         }
 
-        [HttpPut("UpdateHospitalBranch/{id}")]
+        [HttpPut("UpdateHospitalBranch/{Id}")]
         public async Task<IActionResult> UpdateHospitalBranch(HospitalBranchUpdateDTO hospitalBranchUpdateDTO)
         {
             var result = await _hospitalBranchService.UpdateHospitalBranchByLanguageAsync(hospitalBranchUpdateDTO, _env.WebRootPath);
