@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bmp.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fae3a33f352c9e6290f9c35c858b8fa5d165fbe2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+760f7e9da27dcb88efc23212ba6f16afb152cfb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bmp.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bmp.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

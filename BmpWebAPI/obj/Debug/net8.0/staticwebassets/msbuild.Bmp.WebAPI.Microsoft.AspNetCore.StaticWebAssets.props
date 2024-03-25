@@ -128,6 +128,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1637ae94-ccb8-4c64-93d5-2370ee0ba231internettv-02.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1745ddaf-faab-493e-9f39-41144ffd5593forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/1745ddaf-faab-493e-9f39-41144ffd5593forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1745ddaf-faab-493e-9f39-41144ffd5593forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\18a32fa1-fa30-45fd-a2ad-7b9290e41875Capture.PNG))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -143,6 +159,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\18a32fa1-fa30-45fd-a2ad-7b9290e41875Capture.PNG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\19ff4e38-b4c9-4b96-8404-76835037cc90forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/19ff4e38-b4c9-4b96-8404-76835037cc90forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\19ff4e38-b4c9-4b96-8404-76835037cc90forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1abde4a8-7ee6-4138-88b5-284972a991f2forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/1abde4a8-7ee6-4138-88b5-284972a991f2forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1abde4a8-7ee6-4138-88b5-284972a991f2forsythia-8595521_1280.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1abe5f6d-b048-46bb-a570-acad354dccf6landscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
@@ -192,6 +240,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1e746695-c593-47ce-af6a-557bc34bc41abladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1f33a1d7-9314-42d2-b201-7f251d4e4603forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/1f33a1d7-9314-42d2-b201-7f251d4e4603forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\1f33a1d7-9314-42d2-b201-7f251d4e4603forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\205693af-6371-4ee9-a4c6-314e47510bc0Capture.PNG))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -223,6 +287,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\20ecae2b-f41d-4668-beb8-61123f18a05elandscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\210194a0-08f1-4426-b0d3-ce4acf3f877flandscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/210194a0-08f1-4426-b0d3-ce4acf3f877flandscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\210194a0-08f1-4426-b0d3-ce4acf3f877flandscape-8592826_1280.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\21f19000-53f9-48c8-b702-e827871b5992Capture.PNG))">
       <SourceType>Package</SourceType>
@@ -256,6 +336,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\26941147-20f2-4421-9f10-b223bc70ee0dCapture.PNG))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\26ac4b18-ff6b-432b-b4c6-274b15baaca4landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/26ac4b18-ff6b-432b-b4c6-274b15baaca4landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\26ac4b18-ff6b-432b-b4c6-274b15baaca4landscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\272f7889-aae0-43fe-ab9d-0496f0fbe5b4TGM_20210510_11069r.webp))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -287,6 +383,54 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2a9cd30a-b3ed-4dff-9c50-974638865e48ADSL.PNG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2d37085a-c0b2-4540-8f1c-9be93f7f1861landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/2d37085a-c0b2-4540-8f1c-9be93f7f1861landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2d37085a-c0b2-4540-8f1c-9be93f7f1861landscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2dcacfdc-4f08-409e-9997-620c255dd2c7landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/2dcacfdc-4f08-409e-9997-620c255dd2c7landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2dcacfdc-4f08-409e-9997-620c255dd2c7landscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\30205edf-ba89-4466-832b-c6b265cebec5landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/30205edf-ba89-4466-832b-c6b265cebec5landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\30205edf-ba89-4466-832b-c6b265cebec5landscape-8592826_1280.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\30d57ac7-1ef5-4245-bb7e-c50519d13833landscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
@@ -351,6 +495,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\34f2a1e6-08da-4946-ad8a-53a35eddeadfblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\39c6d1b8-3ad8-46ab-965b-404c5752c97eforsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/39c6d1b8-3ad8-46ab-965b-404c5752c97eforsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\39c6d1b8-3ad8-46ab-965b-404c5752c97eforsythia-8595521_1280.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\3a567088-c671-4d54-966c-30171f8615e0landscape-8592826_1280 - Copy.jpg))">
       <SourceType>Package</SourceType>
@@ -448,6 +608,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4c31d93b-c9d0-4b16-88f4-9c29c769fc04bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4c8895d7-4470-4d94-82af-5814cc46463cforsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/4c8895d7-4470-4d94-82af-5814cc46463cforsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4c8895d7-4470-4d94-82af-5814cc46463cforsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4db0be44-f855-41aa-b8b5-e9fe41a48b2blandscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -463,6 +639,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4db0be44-f855-41aa-b8b5-e9fe41a48b2blandscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4f61655b-af14-4cfd-8acb-ddcdf0d495c9landscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/4f61655b-af14-4cfd-8acb-ddcdf0d495c9landscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4f61655b-af14-4cfd-8acb-ddcdf0d495c9landscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\4f7bf5e4-4f2b-4881-9bfd-8466fa844499landscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
@@ -624,6 +816,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\59c0b0b4-c215-466d-945b-80104511419clandscape-8592826_1280.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5a2abd25-dd4c-4c16-9e4b-d25138da4a7alandscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/5a2abd25-dd4c-4c16-9e4b-d25138da4a7alandscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5a2abd25-dd4c-4c16-9e4b-d25138da4a7alandscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5a2ac523-0260-48a4-a735-63fdd942a2e6forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/5a2ac523-0260-48a4-a735-63fdd942a2e6forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5a2ac523-0260-48a4-a735-63fdd942a2e6forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5a445f06-2d1e-497b-b601-469e7723d5ceCapture.PNG))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -671,6 +895,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5d78576d-b3c8-4658-8794-52ec91029b16landscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5f0b00ed-43e1-4c7a-9cb2-7e45cd94ff5blandscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/5f0b00ed-43e1-4c7a-9cb2-7e45cd94ff5blandscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5f0b00ed-43e1-4c7a-9cb2-7e45cd94ff5blandscape-8592826_1280.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\606504db-d7aa-4731-95cc-80d8b5d85025landscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
@@ -751,6 +991,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6309c6d7-a800-48f0-b4a1-0d01dcaf36e0Capture.PNG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6383ca24-7931-4875-8a22-ab67fff82e6clandscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/6383ca24-7931-4875-8a22-ab67fff82e6clandscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6383ca24-7931-4875-8a22-ab67fff82e6clandscape-8592826_1280.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\65a9d3e4-0800-490b-9029-8cf149115317forsythia-8595521_1280.webp))">
       <SourceType>Package</SourceType>
@@ -864,6 +1120,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f58d299-dbd6-478e-b9e9-95055de7c905no-photo.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f9b56dd-4bc1-468e-9b06-5f0006f336a5forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/6f9b56dd-4bc1-468e-9b06-5f0006f336a5forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f9b56dd-4bc1-468e-9b06-5f0006f336a5forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\73faff22-3aea-4bef-bacf-33cdf4426cafinternettv-02.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -927,6 +1199,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\75ec741b-8da5-474d-971a-0e21c31a9f70TGM_20210510_11069r.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7688278e-534f-46b4-aa01-5b5aad3ee218forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/7688278e-534f-46b4-aa01-5b5aad3ee218forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7688278e-534f-46b4-aa01-5b5aad3ee218forsythia-8595521_1280.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7999a0ae-7888-4678-9d23-fcc061e23074Capture.PNG))">
       <SourceType>Package</SourceType>
@@ -1056,6 +1344,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\85cb3b8e-d0fa-40c1-b027-960c58486483blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\86e31ec8-9703-4b92-bea6-a3f5196928a3landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/86e31ec8-9703-4b92-bea6-a3f5196928a3landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\86e31ec8-9703-4b92-bea6-a3f5196928a3landscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\88062cf2-4ef6-4a3e-b3aa-80ae73eae8d3landscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -1087,6 +1391,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8a2e51a6-cca4-4d8f-a34d-1ea4ed423618ADSL.PNG))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8f81c7df-3249-46e6-ae43-da43ee3c8a59landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/8f81c7df-3249-46e6-ae43-da43ee3c8a59landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\8f81c7df-3249-46e6-ae43-da43ee3c8a59landscape-8592826_1280.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\906896fb-3f4a-41eb-b9c5-94c48b328c5adownload.jpeg))">
       <SourceType>Package</SourceType>
@@ -1216,6 +1536,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\979271bd-dd88-4457-91cb-9669d1266a50landscape-8592826_1280.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\98a3c36a-cb03-4a2d-b730-647d0f2c4a89forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/98a3c36a-cb03-4a2d-b730-647d0f2c4a89forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\98a3c36a-cb03-4a2d-b730-647d0f2c4a89forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9995602f-a1ac-428b-ad0b-c9ccb58fa120landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/9995602f-a1ac-428b-ad0b-c9ccb58fa120landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9995602f-a1ac-428b-ad0b-c9ccb58fa120landscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9cd3fcb5-f96b-4b4d-bee7-25ba31f31bd5landscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -1264,6 +1616,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9dc37427-42ac-450b-9108-88716bb3a16dCapture.PNG))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9e07771f-05b2-4ff0-91e2-504444fcbeabRekordsatış.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/9e07771f-05b2-4ff0-91e2-504444fcbeabRekordsatış.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\9e07771f-05b2-4ff0-91e2-504444fcbeabRekordsatış.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a5ec8382-41a3-4da9-885a-463d02515632landscape-8592826_1280 - Copy.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -1311,6 +1679,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a9cd1873-6113-456f-863e-3696d4530431saglam_cume.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\aa697cf3-0162-4e90-b983-c8349002cf9flandscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/aa697cf3-0162-4e90-b983-c8349002cf9flandscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\aa697cf3-0162-4e90-b983-c8349002cf9flandscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\aae529a0-5965-4231-951a-f16a95c893e3forsythia-8595521_1280.webp))">
       <SourceType>Package</SourceType>
@@ -1439,6 +1823,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b1a922a0-d19e-4c50-bf9b-417049bdce53landscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b1ee0cd6-a5af-4365-ae12-23a2b2b622a8landscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/b1ee0cd6-a5af-4365-ae12-23a2b2b622a8landscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b1ee0cd6-a5af-4365-ae12-23a2b2b622a8landscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b34fb297-e832-4606-baf6-2c1890868983TGM_20210510_11069r.webp))">
       <SourceType>Package</SourceType>
@@ -1583,6 +1983,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\bfce5ba5-1b03-4de4-97e9-ac046e2a05f5bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\c189f7ad-dab0-4f3b-aa9a-9c046ea308a0landscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/c189f7ad-dab0-4f3b-aa9a-9c046ea308a0landscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\c189f7ad-dab0-4f3b-aa9a-9c046ea308a0landscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\c2eaf172-457b-4893-a090-1dfa8f961834landscape-8592826_1280 - Copy.jpg))">
       <SourceType>Package</SourceType>
@@ -1744,6 +2160,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cc1bcc34-09a2-41c1-9833-c1a962e80c6bADSL.PNG))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ccae94dd-6d1e-4a28-bace-c26ea9c82db8landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/ccae94dd-6d1e-4a28-bace-c26ea9c82db8landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ccae94dd-6d1e-4a28-bace-c26ea9c82db8landscape-8592826_1280.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ccd81f03-725e-4479-b928-6e127474ecaeforsythia-8595521_1280.webp))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -1792,6 +2224,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cef89187-f867-43a6-b892-3f864e9ca8c4landscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cf19b3a1-3796-415c-ba69-987b6ed251a7forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/cf19b3a1-3796-415c-ba69-987b6ed251a7forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cf19b3a1-3796-415c-ba69-987b6ed251a7forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cf3d4daf-16b9-4516-84ff-a5536df81acdblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -1807,6 +2255,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cf3d4daf-16b9-4516-84ff-a5536df81acdblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cf554326-896a-4ad7-884c-e490562a5ddbforsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/cf554326-896a-4ad7-884c-e490562a5ddbforsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cf554326-896a-4ad7-884c-e490562a5ddbforsythia-8595521_1280.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d045094c-5891-46df-a230-82d3a18b60ealandscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
@@ -1936,6 +2400,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\dad80ebe-a061-4a83-b4cc-5c3fdfc41534TGM_20210510_11069r.webp))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\db77d6be-ba48-4506-9be0-cc4a1a34e126landscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/db77d6be-ba48-4506-9be0-cc4a1a34e126landscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\db77d6be-ba48-4506-9be0-cc4a1a34e126landscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\dd27fab7-519d-4c80-8925-0bf3ca69ac43forsythia-8595521_1280.webp))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -1951,6 +2431,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\dd27fab7-519d-4c80-8925-0bf3ca69ac43forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\dd491a03-fad5-46e2-8b4f-17d33d806548forsythia-8595521_1280.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/dd491a03-fad5-46e2-8b4f-17d33d806548forsythia-8595521_1280.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\dd491a03-fad5-46e2-8b4f-17d33d806548forsythia-8595521_1280.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\df5ad88f-d39f-4b0c-b731-9f449309bff5landscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>
@@ -2000,6 +2496,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e139e5a1-a0c4-40d5-9080-b46454fb58a5Capture.PNG))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e1512a94-de49-48e9-a4f0-e7bf6041ce56landscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/e1512a94-de49-48e9-a4f0-e7bf6041ce56landscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e1512a94-de49-48e9-a4f0-e7bf6041ce56landscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e1f79131-bee7-4422-bb47-8a8ead4b5cc1blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Bmp.WebAPI</SourceId>
@@ -2047,6 +2559,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e33af561-586b-4456-a693-8b51ced7e1d4download.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e496c602-2ae3-4283-80cb-d7057a139f47landscape-8592826_1280.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/e496c602-2ae3-4283-80cb-d7057a139f47landscape-8592826_1280.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e496c602-2ae3-4283-80cb-d7057a139f47landscape-8592826_1280.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e51247d6-1527-4c1f-b159-e86119c92011landscape-8592826_1280 - Copy.jpg))">
       <SourceType>Package</SourceType>
@@ -2127,6 +2655,38 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ea6f350e-ea3a-4c80-8f51-62d825a6be03forsythia-8595521_1280.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\eb14e2f5-6ea1-47db-aad1-342c38b689a9landscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/eb14e2f5-6ea1-47db-aad1-342c38b689a9landscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\eb14e2f5-6ea1-47db-aad1-342c38b689a9landscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\eb95bc33-1a51-4b8f-910a-9eb24819197dlandscape-8592826_1280 - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bmp.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bmp.WebAPI</BasePath>
+      <RelativePath>uploads/eb95bc33-1a51-4b8f-910a-9eb24819197dlandscape-8592826_1280 - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\eb95bc33-1a51-4b8f-910a-9eb24819197dlandscape-8592826_1280 - Copy.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ec92a7a5-61c7-4a70-aadc-bf6dffd6f548landscape-8592826_1280.jpg))">
       <SourceType>Package</SourceType>

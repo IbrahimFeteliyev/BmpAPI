@@ -49,8 +49,6 @@ namespace Bmp.Business.DependencyResolver
             services.AddScoped<IContactDAL, EFContactDAL>();
             services.AddScoped<IContactService, ContactManager>();
 
-            services.AddScoped<IMapDAL, EFMapDAL>();
-            services.AddScoped<IMapService, MapManager>();
 
             services.AddScoped<IDepartmentDAL, EFDepartmentDAL>();
             services.AddScoped<IDepartmentService, DepartmentManager>();

@@ -17,8 +17,8 @@ namespace Bmp.WebAPI.Controllers
             _env = env;
         }
 
-        [HttpGet]
-        public IActionResult GetDepartments(string langCode)
+        [HttpGet("GetAllDepartments")]
+        public IActionResult GetAllDepartments(string langCode)
         {
             var result = _departmentService.GetAllDepartments(langCode);
             if (result.Success)

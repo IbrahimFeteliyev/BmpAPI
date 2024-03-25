@@ -18,7 +18,7 @@ namespace Bmp.WebAPI.Controllers
         }
 
         [HttpGet("GetAllAdvantages")]
-        public IActionResult GetAdvantages(string langCode)
+        public IActionResult GetAllAdvantages(string langCode)
         {
             var result = _advantageService.GetAllAdvantagesAdmin(langCode);
             if (result.Success)

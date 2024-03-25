@@ -4,6 +4,8 @@ using Bmp.DataAccess.Abstarct;
 using Bmp.Entities.Concrete;
 using Bmp.Entities.DTOs.HospitalBranchDTOs;
 using Microsoft.EntityFrameworkCore;
+using System.Net;
+using System.Net.Mail;
 
 
 namespace Bmp.DataAccess.Concrete.EntityFramework
@@ -18,6 +20,10 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 HospitalBranch hospitalBranch = new()
                 {
                     CoverPhoto = await hospitalBranchAddDTO.CoverPhoto.SaveFileAsync(webRootPath),
+                    MapUrl = hospitalBranchAddDTO.MapUrl,
+                    Address = hospitalBranchAddDTO.Address,
+                    PhoneNumber = hospitalBranchAddDTO.PhoneNumber,
+                    MailAdress = hospitalBranchAddDTO.MailAdress
                 };
 
                 //await context.HospitalBranchs.AddAsync(hospitalBranch);
@@ -95,6 +101,10 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 Description = x.HospitalBranchLanguages.FirstOrDefault(x => x.LangCode == langCode).Description,
                 PhotoUrl = x.HospitalBranchPhotos.Select(x => x.PhotoUrl).ToList(),
                 CoverPhoto = x.CoverPhoto,
+                MapUrl = x.MapUrl,
+                Address = x.Address,
+                PhoneNumber = x.PhoneNumber,
+                MailAdress = x.MailAdress,
                 Features = x.HospitalBranchFeatures.Select(f => new HospitalBranchFeatureListDTO
                 {
                     Count = f.Count,
@@ -121,6 +131,10 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 {
                     Id = x.Id,
                     CoverPhoto = x.CoverPhoto,
+                    MapUrl = x.MapUrl,
+                    Address = x.Address,
+                    PhoneNumber = x.PhoneNumber,
+                    MailAdress = x.MailAdress,
                     UpdatedDate = x.UpdatedDate,
                     CreatedDate = x.CreatedDate,
                     BranchName = x.HospitalBranchLanguages.Select(x => x.BranchName).ToList(),
@@ -144,17 +158,16 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 using var context = new AppDbContext();
                 var hospitalBranch = context.HospitalBranchs.FirstOrDefault(x => x.Id == hospitalBranchUpdateDTO.Id);
 
-                //if (hospitalBranch == null)
-                //{
-                //    return false;
-                //}
+                hospitalBranch.MapUrl = hospitalBranchUpdateDTO.MapUrl;
+                hospitalBranch.Address = hospitalBranchUpdateDTO.Address;
+                hospitalBranch.PhoneNumber = hospitalBranchUpdateDTO.PhoneNumber;
+                hospitalBranch.MailAdress = hospitalBranchUpdateDTO.MailAdress;
 
                 if (hospitalBranchUpdateDTO.CoverPhoto != null)
                 {
                     hospitalBranch.CoverPhoto = await hospitalBranchUpdateDTO.CoverPhoto.SaveFileAsync(webRootPath);
                 }
 
-                /////////////////////////////////////////////////////////////////////// 
 
                 var hospitalBranchLanguages = context.HospitalBranchLanguages.Where(x => x.HospitalBranchId == hospitalBranch.Id).ToList();
                 for (int i = 0; i < hospitalBranchLanguages.Count; i++)
@@ -164,7 +177,6 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 }
                 context.HospitalBranchLanguages.UpdateRange(hospitalBranchLanguages);
 
-                ///////////////////////////////////////////////////////////////////////
 
                 if (hospitalBranchUpdateDTO.PhotoUrl != null)
                 {
@@ -176,9 +188,7 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                     }
                     context.HospitalBranchPhotos.UpdateRange(hospitalBranchPhotos);
                 }
-                
 
-                ///////////////////////////////////////////////////////////////////////
 
                 var hospitalBranchFeatures = context.HospitalBranchFeatures.Include(f => f.HospitalBranchFeatureLanguages).Where(x => x.HospitalBranchId == hospitalBranch.Id).ToList();
 
@@ -195,7 +205,6 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                     }
                 }
 
-                ///////////////////////////////////////////////////////////////////////
 
                 await context.SaveChangesAsync();
                 return true;

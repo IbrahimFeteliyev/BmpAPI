@@ -1,7 +1,6 @@
 ﻿using AutoMapper;
 using Bmp.Entities.Concrete;
 using Bmp.Entities.DTOs.ContactDTOs;
-using Bmp.Entities.DTOs.MapDTOs;
 
 
 namespace Bmp.Business.AutoMapper
@@ -14,8 +13,6 @@ namespace Bmp.Business.AutoMapper
             CreateMap<Contact, ContactListDTO>();
             CreateMap<Contact, ContactDetailDTO>();
 
-            CreateMap<Map, MapDTO>().ReverseMap();
-            CreateMap<Map, MapAdminDTO>();
         }
     }
 }

@@ -8,7 +8,7 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=DESKTOP-C642ENA\SQLEXPRESS;Database=BmpAPI;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer(@"Server=IT-WEB2\SQLEXPRESS;Database=BmpAPI;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True");
         }
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
@@ -36,7 +36,6 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
         public DbSet<HospitalBranchPhoto> HospitalBranchPhotos { get; set; }
         public DbSet<Introduction> Introductions { get; set; }
         public DbSet<IntroductionLanguage> IntroductionLanguages { get; set; }
-        public DbSet<Map> Maps { get; set; }
         public DbSet<ShortInfo> ShortInfos { get; set; }
         public DbSet<ShortInfoLanguage> ShortInfoLanguages { get; set; }
 
