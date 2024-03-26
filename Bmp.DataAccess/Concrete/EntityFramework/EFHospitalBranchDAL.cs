@@ -151,6 +151,50 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
             return result;
         }
 
+        public HospitalBranchDetailDTO GetHospitalBranchLangById(int Id, string langCode)
+        {
+            using var context = new AppDbContext();
+
+            var result = context.HospitalBranchs
+                .Include(x => x.HospitalBranchLanguages)
+                .Include(x => x.HospitalBranchFeatures)
+                .Include(x => x.HospitalBranchPhotos)
+                .Select(x => new HospitalBranchDetailDTO()
+                {
+                    Id = x.Id,
+                    CoverPhoto = x.CoverPhoto,
+                    MapUrl = x.MapUrl,
+                    Address = x.Address,
+                    PhoneNumber = x.PhoneNumber,
+                    MailAdress = x.MailAdress,
+                    UpdatedDate = x.UpdatedDate,
+                    CreatedDate = x.CreatedDate,
+                    BranchName = x.HospitalBranchLanguages
+                        .Where(hbl => hbl.LangCode == langCode)
+                        .Select(hbl => hbl.BranchName)
+                        .ToList(),
+                    Description = x.HospitalBranchLanguages
+                        .Where(hbl => hbl.LangCode == langCode)
+                        .Select(hbl => hbl.Description)
+                        .ToList(),
+                    PhotoUrl = x.HospitalBranchPhotos
+                        .Select(hbp => hbp.PhotoUrl)
+                        .ToList(),
+                    Features = x.HospitalBranchFeatures.Select(f => new HospitalBranchFeatureListDTO
+                    {
+                        Count = f.Count,
+                        FeatureDescription = f.HospitalBranchFeatureLanguages
+                            .Where(hbfl => hbfl.LangCode == langCode)
+                            .Select(hbfl => hbfl.Description)
+                            .ToList(),
+                        FeaturePhotoUrl = f.PhotoUrl
+                    }).ToList()
+                })
+                .FirstOrDefault(x => x.Id == Id);
+            return result;
+        }
+
+
         public async Task<bool> UpdateHospitalBranch(HospitalBranchUpdateDTO hospitalBranchUpdateDTO, string webRootPath)
         {
             try

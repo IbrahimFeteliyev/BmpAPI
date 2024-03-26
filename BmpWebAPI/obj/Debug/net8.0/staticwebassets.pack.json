@@ -1,704 +1,80 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\00f8868e-c3fc-4221-820d-00dc29310e55Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\00f8868e-c3fc-4221-820d-00dc29310e55Capture.PNG"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\045e0433-784a-406f-8bfd-fdb4730d9eb3image 5.png",
+      "PackagePath": "staticwebassets\\uploads\\045e0433-784a-406f-8bfd-fdb4730d9eb3image 5.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\02a20e37-1941-4efb-9c58-6828ba1749c8blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\02a20e37-1941-4efb-9c58-6828ba1749c8blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\11c4d4e4-4984-4985-8cd9-d95cb7fc1cbfimage 5.png",
+      "PackagePath": "staticwebassets\\uploads\\11c4d4e4-4984-4985-8cd9-d95cb7fc1cbfimage 5.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\02c638cf-fa48-4f6b-94d2-ccae84c23da5Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\02c638cf-fa48-4f6b-94d2-ccae84c23da5Capture.PNG"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\144b82ed-8f93-48c6-aa9e-f90bb459245cbranch_icon2.svg.svg",
+      "PackagePath": "staticwebassets\\uploads\\144b82ed-8f93-48c6-aa9e-f90bb459245cbranch_icon2.svg.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\0b46f432-9d3e-4c98-97a4-e43294f9a882landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\0b46f432-9d3e-4c98-97a4-e43294f9a882landscape-8592826_1280.jpg"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\14a0509e-9709-4fbd-8d1d-1716460b5affimage 6.png",
+      "PackagePath": "staticwebassets\\uploads\\14a0509e-9709-4fbd-8d1d-1716460b5affimage 6.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\114bd03b-e6bb-4d98-9d02-0fa656104a31Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\114bd03b-e6bb-4d98-9d02-0fa656104a31Capture.PNG"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\15e091f3-60ba-4a42-b188-96b03eb319d4Frame 90.png",
+      "PackagePath": "staticwebassets\\uploads\\15e091f3-60ba-4a42-b188-96b03eb319d4Frame 90.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\1222f5c7-2815-4b8f-8b86-d950459e30bflandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\1222f5c7-2815-4b8f-8b86-d950459e30bflandscape-8592826_1280.jpg"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\4e1d8d26-1012-4aca-a067-974e8e73d516branch_icon2.svg.svg",
+      "PackagePath": "staticwebassets\\uploads\\4e1d8d26-1012-4aca-a067-974e8e73d516branch_icon2.svg.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\12cd153b-8ba1-4853-9094-1e85a6cb5227Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\12cd153b-8ba1-4853-9094-1e85a6cb5227Capture.PNG"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\55652fe4-dfa0-49e9-aa08-f10da0c35fedGroup 16.svg",
+      "PackagePath": "staticwebassets\\uploads\\55652fe4-dfa0-49e9-aa08-f10da0c35fedGroup 16.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\1637ae94-ccb8-4c64-93d5-2370ee0ba231internettv-02.jpg",
-      "PackagePath": "staticwebassets\\uploads\\1637ae94-ccb8-4c64-93d5-2370ee0ba231internettv-02.jpg"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\5ac462e0-e38c-47c9-b563-2f109a056cceGroup 16.svg",
+      "PackagePath": "staticwebassets\\uploads\\5ac462e0-e38c-47c9-b563-2f109a056cceGroup 16.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\1745ddaf-faab-493e-9f39-41144ffd5593forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\1745ddaf-faab-493e-9f39-41144ffd5593forsythia-8595521_1280.webp"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\6fbd566c-ea89-4e96-a5cf-43c862ea2a0eFrame 90.png",
+      "PackagePath": "staticwebassets\\uploads\\6fbd566c-ea89-4e96-a5cf-43c862ea2a0eFrame 90.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\18a32fa1-fa30-45fd-a2ad-7b9290e41875Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\18a32fa1-fa30-45fd-a2ad-7b9290e41875Capture.PNG"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\8e0b3f73-eaae-44a8-be04-e62dbffdcc6bGroup 16.svg",
+      "PackagePath": "staticwebassets\\uploads\\8e0b3f73-eaae-44a8-be04-e62dbffdcc6bGroup 16.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\19ff4e38-b4c9-4b96-8404-76835037cc90forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\19ff4e38-b4c9-4b96-8404-76835037cc90forsythia-8595521_1280.webp"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\9c0b3294-8d92-47f4-832b-404bce0bc036Frame 90.png",
+      "PackagePath": "staticwebassets\\uploads\\9c0b3294-8d92-47f4-832b-404bce0bc036Frame 90.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\1abde4a8-7ee6-4138-88b5-284972a991f2forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\1abde4a8-7ee6-4138-88b5-284972a991f2forsythia-8595521_1280.webp"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\a8aa5613-213e-4181-adaf-b712cc718823Group 16.svg",
+      "PackagePath": "staticwebassets\\uploads\\a8aa5613-213e-4181-adaf-b712cc718823Group 16.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\1abe5f6d-b048-46bb-a570-acad354dccf6landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\1abe5f6d-b048-46bb-a570-acad354dccf6landscape-8592826_1280.jpg"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\aac02f04-623d-4536-b244-f0e2f0f6527aimage 4.png",
+      "PackagePath": "staticwebassets\\uploads\\aac02f04-623d-4536-b244-f0e2f0f6527aimage 4.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\1e533460-74d4-4f88-aa96-06c82e5a64b2Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\1e533460-74d4-4f88-aa96-06c82e5a64b2Capture.PNG"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b45a6a5e-cc5e-435f-83c5-0ead5da45980Frame 90.png",
+      "PackagePath": "staticwebassets\\uploads\\b45a6a5e-cc5e-435f-83c5-0ead5da45980Frame 90.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\1e746695-c593-47ce-af6a-557bc34bc41abladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg",
-      "PackagePath": "staticwebassets\\uploads\\1e746695-c593-47ce-af6a-557bc34bc41abladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b6984d66-9055-4661-ad82-a05f688b2594image 4.png",
+      "PackagePath": "staticwebassets\\uploads\\b6984d66-9055-4661-ad82-a05f688b2594image 4.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\1f33a1d7-9314-42d2-b201-7f251d4e4603forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\1f33a1d7-9314-42d2-b201-7f251d4e4603forsythia-8595521_1280.webp"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ca271f14-b941-47e9-9cca-2738252f6cb4Frame 90.png",
+      "PackagePath": "staticwebassets\\uploads\\ca271f14-b941-47e9-9cca-2738252f6cb4Frame 90.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\205693af-6371-4ee9-a4c6-314e47510bc0Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\205693af-6371-4ee9-a4c6-314e47510bc0Capture.PNG"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\d924802d-bda3-42da-ac16-229b18d0460bFrame 90.png",
+      "PackagePath": "staticwebassets\\uploads\\d924802d-bda3-42da-ac16-229b18d0460bFrame 90.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\20ecae2b-f41d-4668-beb8-61123f18a05elandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\20ecae2b-f41d-4668-beb8-61123f18a05elandscape-8592826_1280.jpg"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ea1ca06f-6c16-4da0-8863-77feca6ce311branch3.png",
+      "PackagePath": "staticwebassets\\uploads\\ea1ca06f-6c16-4da0-8863-77feca6ce311branch3.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\210194a0-08f1-4426-b0d3-ce4acf3f877flandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\210194a0-08f1-4426-b0d3-ce4acf3f877flandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\21f19000-53f9-48c8-b702-e827871b5992Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\21f19000-53f9-48c8-b702-e827871b5992Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\26941147-20f2-4421-9f10-b223bc70ee0dCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\26941147-20f2-4421-9f10-b223bc70ee0dCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\26ac4b18-ff6b-432b-b4c6-274b15baaca4landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\26ac4b18-ff6b-432b-b4c6-274b15baaca4landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\272f7889-aae0-43fe-ab9d-0496f0fbe5b4TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\272f7889-aae0-43fe-ab9d-0496f0fbe5b4TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\2a9cd30a-b3ed-4dff-9c50-974638865e48ADSL.PNG",
-      "PackagePath": "staticwebassets\\uploads\\2a9cd30a-b3ed-4dff-9c50-974638865e48ADSL.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\2d37085a-c0b2-4540-8f1c-9be93f7f1861landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\2d37085a-c0b2-4540-8f1c-9be93f7f1861landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\2dcacfdc-4f08-409e-9997-620c255dd2c7landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\2dcacfdc-4f08-409e-9997-620c255dd2c7landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\30205edf-ba89-4466-832b-c6b265cebec5landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\30205edf-ba89-4466-832b-c6b265cebec5landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\30d57ac7-1ef5-4245-bb7e-c50519d13833landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\30d57ac7-1ef5-4245-bb7e-c50519d13833landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\31a2716e-0311-490b-ae85-a3f15b608204Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\31a2716e-0311-490b-ae85-a3f15b608204Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\34966e69-9920-4a0e-bd87-4e019172f44fTGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\34966e69-9920-4a0e-bd87-4e019172f44fTGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\34f2a1e6-08da-4946-ad8a-53a35eddeadfblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\34f2a1e6-08da-4946-ad8a-53a35eddeadfblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\39c6d1b8-3ad8-46ab-965b-404c5752c97eforsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\39c6d1b8-3ad8-46ab-965b-404c5752c97eforsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\3a567088-c671-4d54-966c-30171f8615e0landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\3a567088-c671-4d54-966c-30171f8615e0landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\3ada4ac3-d52d-4818-9b7d-5dc8d9c3cb50landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\3ada4ac3-d52d-4818-9b7d-5dc8d9c3cb50landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\3b31e330-2b70-4513-9cdd-7fc5febb856cCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\3b31e330-2b70-4513-9cdd-7fc5febb856cCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\3bc53001-f716-46b0-b6e1-d172c783a86bbladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg",
-      "PackagePath": "staticwebassets\\uploads\\3bc53001-f716-46b0-b6e1-d172c783a86bbladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\3eb2aa4e-7402-4933-9c70-cc59299a92e4TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\3eb2aa4e-7402-4933-9c70-cc59299a92e4TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\4c31d93b-c9d0-4b16-88f4-9c29c769fc04bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg",
-      "PackagePath": "staticwebassets\\uploads\\4c31d93b-c9d0-4b16-88f4-9c29c769fc04bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\4c8895d7-4470-4d94-82af-5814cc46463cforsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\4c8895d7-4470-4d94-82af-5814cc46463cforsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\4db0be44-f855-41aa-b8b5-e9fe41a48b2blandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\4db0be44-f855-41aa-b8b5-e9fe41a48b2blandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\4f61655b-af14-4cfd-8acb-ddcdf0d495c9landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\4f61655b-af14-4cfd-8acb-ddcdf0d495c9landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\4f7bf5e4-4f2b-4881-9bfd-8466fa844499landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\4f7bf5e4-4f2b-4881-9bfd-8466fa844499landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\50876c67-b3cf-43e3-a38c-b9ef85fb102elandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\50876c67-b3cf-43e3-a38c-b9ef85fb102elandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\51a3474a-2d9f-48fb-995c-8d4c0eac0ec9landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\51a3474a-2d9f-48fb-995c-8d4c0eac0ec9landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\51fdb885-2ded-4487-9c06-7eb9a57db7bcforsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\51fdb885-2ded-4487-9c06-7eb9a57db7bcforsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\53a58d9b-d32f-460d-9e18-99896c269b1dlandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\53a58d9b-d32f-460d-9e18-99896c269b1dlandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\56c28dd6-d372-4998-82a4-65d9a053b1eaCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\56c28dd6-d372-4998-82a4-65d9a053b1eaCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\578855d9-0927-40f9-a1bb-ab8de0928e8adownload.jpeg",
-      "PackagePath": "staticwebassets\\uploads\\578855d9-0927-40f9-a1bb-ab8de0928e8adownload.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\57a3d002-425e-489c-b099-31c31785c81fforsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\57a3d002-425e-489c-b099-31c31785c81fforsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\59a8b815-8c67-4876-a04b-b22c9dfb9252TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\59a8b815-8c67-4876-a04b-b22c9dfb9252TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\59c0b0b4-c215-466d-945b-80104511419clandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\59c0b0b4-c215-466d-945b-80104511419clandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\5a2abd25-dd4c-4c16-9e4b-d25138da4a7alandscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\5a2abd25-dd4c-4c16-9e4b-d25138da4a7alandscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\5a2ac523-0260-48a4-a735-63fdd942a2e6forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\5a2ac523-0260-48a4-a735-63fdd942a2e6forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\5a445f06-2d1e-497b-b601-469e7723d5ceCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\5a445f06-2d1e-497b-b601-469e7723d5ceCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\5b576afe-ee56-4cfe-8ac6-2875c40d3189blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\5b576afe-ee56-4cfe-8ac6-2875c40d3189blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\5d78576d-b3c8-4658-8794-52ec91029b16landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\5d78576d-b3c8-4658-8794-52ec91029b16landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\5f0b00ed-43e1-4c7a-9cb2-7e45cd94ff5blandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\5f0b00ed-43e1-4c7a-9cb2-7e45cd94ff5blandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\606504db-d7aa-4731-95cc-80d8b5d85025landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\606504db-d7aa-4731-95cc-80d8b5d85025landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\60e553f0-1c5e-49bb-8aee-4c678ac39925landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\60e553f0-1c5e-49bb-8aee-4c678ac39925landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\61630a86-e771-4a26-afdb-e420fa9ea577landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\61630a86-e771-4a26-afdb-e420fa9ea577landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\624bf735-6c76-4b31-b60a-f64e66b21d6dlandscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\624bf735-6c76-4b31-b60a-f64e66b21d6dlandscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\6309c6d7-a800-48f0-b4a1-0d01dcaf36e0Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\6309c6d7-a800-48f0-b4a1-0d01dcaf36e0Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\6383ca24-7931-4875-8a22-ab67fff82e6clandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\6383ca24-7931-4875-8a22-ab67fff82e6clandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\65a9d3e4-0800-490b-9029-8cf149115317forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\65a9d3e4-0800-490b-9029-8cf149115317forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\66956665-919e-42ae-a831-dc869f92a1c5Rekordsatış.png",
-      "PackagePath": "staticwebassets\\uploads\\66956665-919e-42ae-a831-dc869f92a1c5Rekordsatış.png"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\6769934f-2a84-4808-af1e-30113eb8550cCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\6769934f-2a84-4808-af1e-30113eb8550cCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\69ba4ce9-5ac5-4b87-8c5c-1756196e3ae5Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\69ba4ce9-5ac5-4b87-8c5c-1756196e3ae5Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\6ae78111-f254-46ef-a946-dfb6eed93c0aCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\6ae78111-f254-46ef-a946-dfb6eed93c0aCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\6d2bf203-c7aa-4cc4-b0a0-294530550e1cforsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\6d2bf203-c7aa-4cc4-b0a0-294530550e1cforsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\6f58d299-dbd6-478e-b9e9-95055de7c905no-photo.jpg",
-      "PackagePath": "staticwebassets\\uploads\\6f58d299-dbd6-478e-b9e9-95055de7c905no-photo.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\6f9b56dd-4bc1-468e-9b06-5f0006f336a5forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\6f9b56dd-4bc1-468e-9b06-5f0006f336a5forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\73faff22-3aea-4bef-bacf-33cdf4426cafinternettv-02.jpg",
-      "PackagePath": "staticwebassets\\uploads\\73faff22-3aea-4bef-bacf-33cdf4426cafinternettv-02.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\742401af-70da-44e0-bc0e-fa587e1e497aCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\742401af-70da-44e0-bc0e-fa587e1e497aCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\7425cf60-48b2-4d74-88c0-0b78fc508572landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\7425cf60-48b2-4d74-88c0-0b78fc508572landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\75ec741b-8da5-474d-971a-0e21c31a9f70TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\75ec741b-8da5-474d-971a-0e21c31a9f70TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\7688278e-534f-46b4-aa01-5b5aad3ee218forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\7688278e-534f-46b4-aa01-5b5aad3ee218forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\7999a0ae-7888-4678-9d23-fcc061e23074Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\7999a0ae-7888-4678-9d23-fcc061e23074Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\7eeb05e9-c867-44e5-9a52-5095f9aed9e0Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\7eeb05e9-c867-44e5-9a52-5095f9aed9e0Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\7f14c2b8-910b-4e78-b2fc-e0fb536ee2a9TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\7f14c2b8-910b-4e78-b2fc-e0fb536ee2a9TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\7f4bbeb0-4371-4875-8710-e58eb4065965forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\7f4bbeb0-4371-4875-8710-e58eb4065965forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\81cffa2e-35af-489b-863c-528c04a1250alandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\81cffa2e-35af-489b-863c-528c04a1250alandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\82b88577-e371-44d2-961a-dd6f155acec3landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\82b88577-e371-44d2-961a-dd6f155acec3landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\8561e197-0284-4ce1-a0f4-3ec846f2c50eCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\8561e197-0284-4ce1-a0f4-3ec846f2c50eCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\85cb3b8e-d0fa-40c1-b027-960c58486483blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\85cb3b8e-d0fa-40c1-b027-960c58486483blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\86e31ec8-9703-4b92-bea6-a3f5196928a3landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\86e31ec8-9703-4b92-bea6-a3f5196928a3landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\88062cf2-4ef6-4a3e-b3aa-80ae73eae8d3landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\88062cf2-4ef6-4a3e-b3aa-80ae73eae8d3landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\8a2e51a6-cca4-4d8f-a34d-1ea4ed423618ADSL.PNG",
-      "PackagePath": "staticwebassets\\uploads\\8a2e51a6-cca4-4d8f-a34d-1ea4ed423618ADSL.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\8f81c7df-3249-46e6-ae43-da43ee3c8a59landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\8f81c7df-3249-46e6-ae43-da43ee3c8a59landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\906896fb-3f4a-41eb-b9c5-94c48b328c5adownload.jpeg",
-      "PackagePath": "staticwebassets\\uploads\\906896fb-3f4a-41eb-b9c5-94c48b328c5adownload.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\9138ed57-07ce-4ae9-8995-c1ae8e1249edlandscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\9138ed57-07ce-4ae9-8995-c1ae8e1249edlandscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\93313cf0-17a6-4d28-b22b-fe402e04ac03TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\93313cf0-17a6-4d28-b22b-fe402e04ac03TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\93da862f-e8fb-4e1b-97f4-a2d52397fa51landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\93da862f-e8fb-4e1b-97f4-a2d52397fa51landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\94173b68-e297-49d4-9386-70436913d321blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\94173b68-e297-49d4-9386-70436913d321blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\95bfc0e9-f21b-4ea3-8730-0c68c7d58e77landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\95bfc0e9-f21b-4ea3-8730-0c68c7d58e77landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\9725f750-617a-466a-908b-1048ba2c344blandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\9725f750-617a-466a-908b-1048ba2c344blandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\979271bd-dd88-4457-91cb-9669d1266a50landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\979271bd-dd88-4457-91cb-9669d1266a50landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\98a3c36a-cb03-4a2d-b730-647d0f2c4a89forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\98a3c36a-cb03-4a2d-b730-647d0f2c4a89forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\9995602f-a1ac-428b-ad0b-c9ccb58fa120landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\9995602f-a1ac-428b-ad0b-c9ccb58fa120landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\9cd3fcb5-f96b-4b4d-bee7-25ba31f31bd5landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\9cd3fcb5-f96b-4b4d-bee7-25ba31f31bd5landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\9d41d941-b6bf-4f3b-8906-0f57bed3aa29Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\9d41d941-b6bf-4f3b-8906-0f57bed3aa29Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\9dc37427-42ac-450b-9108-88716bb3a16dCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\9dc37427-42ac-450b-9108-88716bb3a16dCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\9e07771f-05b2-4ff0-91e2-504444fcbeabRekordsatış.png",
-      "PackagePath": "staticwebassets\\uploads\\9e07771f-05b2-4ff0-91e2-504444fcbeabRekordsatış.png"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\a5ec8382-41a3-4da9-885a-463d02515632landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\a5ec8382-41a3-4da9-885a-463d02515632landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\a6146854-f9f6-410c-998b-5e366fcd534dblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\a6146854-f9f6-410c-998b-5e366fcd534dblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\a9cd1873-6113-456f-863e-3696d4530431saglam_cume.jpg",
-      "PackagePath": "staticwebassets\\uploads\\a9cd1873-6113-456f-863e-3696d4530431saglam_cume.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\aa697cf3-0162-4e90-b983-c8349002cf9flandscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\aa697cf3-0162-4e90-b983-c8349002cf9flandscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\aae529a0-5965-4231-951a-f16a95c893e3forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\aae529a0-5965-4231-951a-f16a95c893e3forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ac25fff8-ebfc-40a4-b0d6-a67e095b470dblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\ac25fff8-ebfc-40a4-b0d6-a67e095b470dblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ae69c566-553f-4ad6-a921-a7f7ded4c450blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\ae69c566-553f-4ad6-a921-a7f7ded4c450blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\aef05f25-dd67-4ceb-9fc1-55151979a5f3landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\aef05f25-dd67-4ceb-9fc1-55151979a5f3landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\af755a7a-6cc9-4a08-90e3-1f7f250d9ec1ryan-gosling-ana-de-armas-movies-blade-runner-wallpaper-99b0d84d014a6d6b86a7e80f6071367d.jpg",
-      "PackagePath": "staticwebassets\\uploads\\af755a7a-6cc9-4a08-90e3-1f7f250d9ec1ryan-gosling-ana-de-armas-movies-blade-runner-wallpaper-99b0d84d014a6d6b86a7e80f6071367d.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b04c9fde-c17c-49d2-a7fa-f70abdf7227flandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\b04c9fde-c17c-49d2-a7fa-f70abdf7227flandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b1223681-cd38-4b9f-b019-47578163f966blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\b1223681-cd38-4b9f-b019-47578163f966blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b1a922a0-d19e-4c50-bf9b-417049bdce53landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\b1a922a0-d19e-4c50-bf9b-417049bdce53landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b1ee0cd6-a5af-4365-ae12-23a2b2b622a8landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\b1ee0cd6-a5af-4365-ae12-23a2b2b622a8landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b34fb297-e832-4606-baf6-2c1890868983TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\b34fb297-e832-4606-baf6-2c1890868983TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b61d5bb4-3b2c-427a-9b31-f7c8d692f789landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\b61d5bb4-3b2c-427a-9b31-f7c8d692f789landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b64c2dea-1a44-44f1-9f94-70be0d7336abCapture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\b64c2dea-1a44-44f1-9f94-70be0d7336abCapture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b6fc7b33-4850-4518-b8fb-9f33223d7286landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\b6fc7b33-4850-4518-b8fb-9f33223d7286landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b822e298-f7d2-4010-b014-15d41b47531bTGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\b822e298-f7d2-4010-b014-15d41b47531bTGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b8cdf890-5721-4161-801a-09a950c198b2landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\b8cdf890-5721-4161-801a-09a950c198b2landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\b94c2352-38e1-48a8-8c30-a0ce3befdc6fbladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg",
-      "PackagePath": "staticwebassets\\uploads\\b94c2352-38e1-48a8-8c30-a0ce3befdc6fbladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\bb37593a-5acd-49b5-abea-d5f0e220b3b2TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\bb37593a-5acd-49b5-abea-d5f0e220b3b2TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\bfce5ba5-1b03-4de4-97e9-ac046e2a05f5bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg",
-      "PackagePath": "staticwebassets\\uploads\\bfce5ba5-1b03-4de4-97e9-ac046e2a05f5bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\c189f7ad-dab0-4f3b-aa9a-9c046ea308a0landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\c189f7ad-dab0-4f3b-aa9a-9c046ea308a0landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\c2eaf172-457b-4893-a090-1dfa8f961834landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\c2eaf172-457b-4893-a090-1dfa8f961834landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\c377bd5d-a1b5-4a1b-b66d-a49f803b5400landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\c377bd5d-a1b5-4a1b-b66d-a49f803b5400landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\c459295b-d130-4100-a2b3-f08db70ea3dflandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\c459295b-d130-4100-a2b3-f08db70ea3dflandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\c5b27634-6166-4e91-9505-4d59d03fbb76bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg",
-      "PackagePath": "staticwebassets\\uploads\\c5b27634-6166-4e91-9505-4d59d03fbb76bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\c62bec9b-ca15-4b5b-b4c0-f8c3fd8ff4f2forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\c62bec9b-ca15-4b5b-b4c0-f8c3fd8ff4f2forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\c6b5c0c3-7ffc-46c7-822f-f51d7d4c88e7landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\c6b5c0c3-7ffc-46c7-822f-f51d7d4c88e7landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\c9e3d07b-451f-4e56-8112-5beac2142e7alandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\c9e3d07b-451f-4e56-8112-5beac2142e7alandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\caacc9a5-379d-4f3f-a987-8daf842ce420bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg",
-      "PackagePath": "staticwebassets\\uploads\\caacc9a5-379d-4f3f-a987-8daf842ce420bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\cb5fb311-a00f-497b-a532-5fab597477aablade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\cb5fb311-a00f-497b-a532-5fab597477aablade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\cc1bcc34-09a2-41c1-9833-c1a962e80c6bADSL.PNG",
-      "PackagePath": "staticwebassets\\uploads\\cc1bcc34-09a2-41c1-9833-c1a962e80c6bADSL.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ccae94dd-6d1e-4a28-bace-c26ea9c82db8landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\ccae94dd-6d1e-4a28-bace-c26ea9c82db8landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ccd81f03-725e-4479-b928-6e127474ecaeforsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\ccd81f03-725e-4479-b928-6e127474ecaeforsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\cdcc5cf4-d42b-482c-9cd4-6a4ed017eb3clandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\cdcc5cf4-d42b-482c-9cd4-6a4ed017eb3clandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\cef89187-f867-43a6-b892-3f864e9ca8c4landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\cef89187-f867-43a6-b892-3f864e9ca8c4landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\cf19b3a1-3796-415c-ba69-987b6ed251a7forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\cf19b3a1-3796-415c-ba69-987b6ed251a7forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\cf3d4daf-16b9-4516-84ff-a5536df81acdblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\cf3d4daf-16b9-4516-84ff-a5536df81acdblade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\cf554326-896a-4ad7-884c-e490562a5ddbforsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\cf554326-896a-4ad7-884c-e490562a5ddbforsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\d045094c-5891-46df-a230-82d3a18b60ealandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\d045094c-5891-46df-a230-82d3a18b60ealandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\d23dc4af-899d-4fed-ba57-62a6cb363773TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\d23dc4af-899d-4fed-ba57-62a6cb363773TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\d39b9df8-d245-48f7-96ed-101a63db172eno-photo.jpg",
-      "PackagePath": "staticwebassets\\uploads\\d39b9df8-d245-48f7-96ed-101a63db172eno-photo.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\d5cea069-7659-4d99-b40d-5104b7a3c13dlandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\d5cea069-7659-4d99-b40d-5104b7a3c13dlandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\d84196f9-638f-479f-8197-3e957db77d65Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\d84196f9-638f-479f-8197-3e957db77d65Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\da81d4e7-6036-4618-8b75-0bb09832eb30TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\da81d4e7-6036-4618-8b75-0bb09832eb30TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\dac7bdd2-0ff2-4d44-9e25-ecba1a052464landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\dac7bdd2-0ff2-4d44-9e25-ecba1a052464landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\dad80ebe-a061-4a83-b4cc-5c3fdfc41534TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\dad80ebe-a061-4a83-b4cc-5c3fdfc41534TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\db77d6be-ba48-4506-9be0-cc4a1a34e126landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\db77d6be-ba48-4506-9be0-cc4a1a34e126landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\dd27fab7-519d-4c80-8925-0bf3ca69ac43forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\dd27fab7-519d-4c80-8925-0bf3ca69ac43forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\dd491a03-fad5-46e2-8b4f-17d33d806548forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\dd491a03-fad5-46e2-8b4f-17d33d806548forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\df5ad88f-d39f-4b0c-b731-9f449309bff5landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\df5ad88f-d39f-4b0c-b731-9f449309bff5landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e1158c31-c442-4a94-a015-79cb0b00b371Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\e1158c31-c442-4a94-a015-79cb0b00b371Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e139e5a1-a0c4-40d5-9080-b46454fb58a5Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\e139e5a1-a0c4-40d5-9080-b46454fb58a5Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e1512a94-de49-48e9-a4f0-e7bf6041ce56landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\e1512a94-de49-48e9-a4f0-e7bf6041ce56landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e1f79131-bee7-4422-bb47-8a8ead4b5cc1blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg",
-      "PackagePath": "staticwebassets\\uploads\\e1f79131-bee7-4422-bb47-8a8ead4b5cc1blade-runner-2049-science-fiction-cyberpunk-ryan-gosling-wallpaper-110289f88ac71165197ac1adc7b126b9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e200e6bd-bb48-432a-b01e-ae0914bed754Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\e200e6bd-bb48-432a-b01e-ae0914bed754Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e33af561-586b-4456-a693-8b51ced7e1d4download.jpeg",
-      "PackagePath": "staticwebassets\\uploads\\e33af561-586b-4456-a693-8b51ced7e1d4download.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e496c602-2ae3-4283-80cb-d7057a139f47landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\e496c602-2ae3-4283-80cb-d7057a139f47landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e51247d6-1527-4c1f-b159-e86119c92011landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\e51247d6-1527-4c1f-b159-e86119c92011landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e5f16a79-87c5-4733-86f4-cc0f7faf5895TGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\e5f16a79-87c5-4733-86f4-cc0f7faf5895TGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e66fbb84-ccb4-4a96-a799-bbea2719abb7bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg",
-      "PackagePath": "staticwebassets\\uploads\\e66fbb84-ccb4-4a96-a799-bbea2719abb7bladerunner-blade-runner-blade-runner-2049-ana-de-armas-ryan-gosling-hd-wallpaper-6a3307091772b89eed7897de78f35c64.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\e92dd86a-5fa5-4d22-9535-1bd95ccd5b0cTGM_20210510_11069r.webp",
-      "PackagePath": "staticwebassets\\uploads\\e92dd86a-5fa5-4d22-9535-1bd95ccd5b0cTGM_20210510_11069r.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ea6f350e-ea3a-4c80-8f51-62d825a6be03forsythia-8595521_1280.webp",
-      "PackagePath": "staticwebassets\\uploads\\ea6f350e-ea3a-4c80-8f51-62d825a6be03forsythia-8595521_1280.webp"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\eb14e2f5-6ea1-47db-aad1-342c38b689a9landscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\eb14e2f5-6ea1-47db-aad1-342c38b689a9landscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\eb95bc33-1a51-4b8f-910a-9eb24819197dlandscape-8592826_1280 - Copy.jpg",
-      "PackagePath": "staticwebassets\\uploads\\eb95bc33-1a51-4b8f-910a-9eb24819197dlandscape-8592826_1280 - Copy.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ec92a7a5-61c7-4a70-aadc-bf6dffd6f548landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\ec92a7a5-61c7-4a70-aadc-bf6dffd6f548landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\f31d5d62-4895-4eec-84cb-e0ea6bdb2da8Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\f31d5d62-4895-4eec-84cb-e0ea6bdb2da8Capture.PNG"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\f487735a-cf06-478f-8955-0c17f3cc5bcflandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\f487735a-cf06-478f-8955-0c17f3cc5bcflandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\f673a11e-58b3-4bdf-b04a-3976f03f3633download.jpeg",
-      "PackagePath": "staticwebassets\\uploads\\f673a11e-58b3-4bdf-b04a-3976f03f3633download.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\fae70e7a-3b77-44f3-9369-b38c09b0812elandscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\fae70e7a-3b77-44f3-9369-b38c09b0812elandscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\fc0d6bda-94dc-43fc-893e-db2528baebb1landscape-8592826_1280.jpg",
-      "PackagePath": "staticwebassets\\uploads\\fc0d6bda-94dc-43fc-893e-db2528baebb1landscape-8592826_1280.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\ff4d7c55-46d2-4453-be25-0a9e0fe129d2Capture.PNG",
-      "PackagePath": "staticwebassets\\uploads\\ff4d7c55-46d2-4453-be25-0a9e0fe129d2Capture.PNG"
+      "Id": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\wwwroot\\uploads\\edf79e80-309c-427a-b11e-552d730fd5a2Frame 90.png",
+      "PackagePath": "staticwebassets\\uploads\\edf79e80-309c-427a-b11e-552d730fd5a2Frame 90.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bmp.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",

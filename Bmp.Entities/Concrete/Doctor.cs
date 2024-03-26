@@ -9,11 +9,9 @@ namespace Bmp.Entities.Concrete
 {
     public class Doctor :  BaseEntity, IEntity
     {
-        public string DoctorName { get; set; }
-        public string DoctorSurname { get; set; }
+        
         public string ContactNumber { get; set; }
         public string PhotoUrl { get; set; }
-
         public int DepartmentId { get; set; }
         public Department Department { get; set; }
 

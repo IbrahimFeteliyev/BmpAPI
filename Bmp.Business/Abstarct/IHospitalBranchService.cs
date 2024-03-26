@@ -9,6 +9,7 @@ namespace Bmp.Business.Abstarct
         Task<IResult> AddHospitalBranchByLanguageAsync(HospitalBranchAddDTO hospitalBranchAddDTO, string webRootPath);
         Task<IResult> UpdateHospitalBranchByLanguageAsync(HospitalBranchUpdateDTO hospitalBranchUpdateDTO, string webRootPath);
         IDataResult<HospitalBranchDetailDTO> GetHospitalBranchById(int id);
+        IDataResult<HospitalBranchDetailDTO> GetHospitalBranchLangById(int id, string langCode);
         IDataResult<List<HospitalBranchListDTO>> GetAllHospitalBranchs(string langCode);
         IResult RemoveHospitalBranch(int id);
     }

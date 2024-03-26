@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\bin\Release\net8.0\Bmp.Entities.deps.json
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\bin\Release\net8.0\Bmp.Entities.dll
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\bin\Release\net8.0\Bmp.Entities.pdb
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\bin\Release\net8.0\Bmp.Core.dll
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\bin\Release\net8.0\Bmp.Core.pdb
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Entities.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Entities.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Entities.AssemblyInfo.cs
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Entities.sourcelink.json
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Enti.844E8D26.Up2Date
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Entities.dll
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\refint\Bmp.Entities.dll
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\Bmp.Entities.pdb
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Entities\obj\Release\net8.0\ref\Bmp.Entities.dll

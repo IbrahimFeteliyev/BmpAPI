@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\bin\Release\net8.0\Bmp.Core.deps.json
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\bin\Release\net8.0\Bmp.Core.dll
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\bin\Release\net8.0\Bmp.Core.pdb
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\Bmp.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\Bmp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\Bmp.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\Bmp.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\Bmp.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\Bmp.Core.sourcelink.json
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\Bmp.Core.dll
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\refint\Bmp.Core.dll
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\Bmp.Core.pdb
+C:\Users\HP\Desktop\SaraProjects\AzeraProjects\BmpAPI\Bmp.Core\obj\Release\net8.0\ref\Bmp.Core.dll

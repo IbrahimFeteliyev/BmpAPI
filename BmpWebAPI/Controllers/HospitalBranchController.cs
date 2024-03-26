@@ -52,11 +52,24 @@ namespace Bmp.WebAPI.Controllers
             return BadRequest(result);
 
         }
+   
 
         [HttpGet("GetHospitalBranchById/{id}")]
         public IActionResult GetHospitalBranchById(int id)
         {
             var result = _hospitalBranchService.GetHospitalBranchById(id);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+
+        }
+
+        [HttpGet("GetHospitalBranchLangById/{id}")]
+        public IActionResult GetHospitalBranchLangById(int id, string langCode)
+        {
+            var result = _hospitalBranchService.GetHospitalBranchLangById(id, langCode);
             if (result.Success)
             {
                 return Ok(result);

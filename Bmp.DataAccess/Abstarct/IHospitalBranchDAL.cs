@@ -14,6 +14,7 @@ namespace Bmp.DataAccess.Abstarct
         Task<bool> AddHospitalBranch(HospitalBranchAddDTO hospitalBranchAddDTO, string webRootPath);
         Task<bool> UpdateHospitalBranch(HospitalBranchUpdateDTO hospitalBranchUpdateDTO, string webRootPath);
         HospitalBranchDetailDTO GetHospitalBranchByIdAdmin(int Id);
+        HospitalBranchDetailDTO GetHospitalBranchLangById(int Id, string langCode);
         List<HospitalBranchListDTO> GetAllHospitalBranchList(string langCode);
     }
 }

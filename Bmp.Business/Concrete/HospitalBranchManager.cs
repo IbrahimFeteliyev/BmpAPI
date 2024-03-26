@@ -47,6 +47,13 @@ namespace Bmp.Business.Concrete
             var result = _hospitalBranchDAL.GetHospitalBranchByIdAdmin(id);
             return new SuccessDataResult<HospitalBranchDetailDTO>(result);
         }
+
+        public IDataResult<HospitalBranchDetailDTO> GetHospitalBranchLangById(int id, string langCode)
+        {
+            var result = _hospitalBranchDAL.GetHospitalBranchLangById(id, langCode);
+            return new SuccessDataResult<HospitalBranchDetailDTO>(result);
+        }
+
         public IResult RemoveHospitalBranch(int id)
         {
             var hospitalBranch = _hospitalBranchDAL.Get(x => x.Id == id);

@@ -3,6 +3,7 @@ using Bmp.Core.Helper;
 using Bmp.DataAccess.Abstarct;
 using Bmp.Entities.Concrete;
 using Bmp.Entities.DTOs.DepartmentDTOs;
+using Bmp.Entities.DTOs.HospitalBranchDTOs;
 using Microsoft.EntityFrameworkCore;
 
 namespace Bmp.DataAccess.Concrete.EntityFramework
@@ -120,8 +121,16 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                     return false;
                 }
 
-                department.PhotoUrl = await departmentUpdateDTO.PhotoUrl.SaveFileAsync(webRootPath);
-                department.IconUrl = await departmentUpdateDTO.IconUrl.SaveFileAsync(webRootPath);
+                if (departmentUpdateDTO.PhotoUrl != null)
+                {
+                    department.PhotoUrl = await departmentUpdateDTO.PhotoUrl.SaveFileAsync(webRootPath);
+                }
+
+                if (departmentUpdateDTO.IconUrl != null)
+                {
+                    department.IconUrl = await departmentUpdateDTO.IconUrl.SaveFileAsync(webRootPath);
+                }
+                
 
                 /////////////////////////////////////////////////////////////////////// 
 
