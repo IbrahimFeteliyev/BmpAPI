@@ -39,6 +39,18 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
         public DbSet<ShortInfo> ShortInfos { get; set; }
         public DbSet<ShortInfoLanguage> ShortInfoLanguages { get; set; }
 
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<BlogLanguage> BlogLanguages { get; set; }
+        public DbSet<BlogContent> BlogContents { get; set; }
+        public DbSet<BlogContentLanguage> BlogContentLanguages { get; set; }
+        public DbSet<BlogPhoto> BlogPhotos { get; set; }
+
+
+        public DbSet<News> Newss { get; set; }
+        public DbSet<NewsLanguage> NewsLanguages { get; set; }
+        public DbSet<NewsContent> NewsContents { get; set; }
+        public DbSet<NewsContentLanguage> NewsContentLanguages { get; set; }
+        public DbSet<NewsPhoto> NewsPhotos { get; set; }
 
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {

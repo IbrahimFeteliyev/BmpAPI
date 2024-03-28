@@ -16,12 +16,5 @@ namespace Bmp.Entities.DTOs.DoctorDTOs
         public DateTime CreatedDate { get; set; }
         public DateTime UpdatedDate { get; set; }
     }
-    public class DoctorEducationListDTO
-    {
-        public List<string> EducationText { get; set; }
-    }
-    public class DoctorWorkExperienceListDTO
-    {
-        public List<string> WorkExperienceText { get; set; }
-    }
+
 }

@@ -3,124 +3,160 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmpwebapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Migrations\\20240328135334_news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bmp.DataAccess\\Migrations\\20240328135334_news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmpwebapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmpwebapi\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\concrete\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmpwebapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\concrete\\hospitalbranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\hospitalbranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\concrete\\newsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\newsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\abstarct\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\concrete\\blogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\blogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\abstarct\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\abstarct\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\abstarct\\ihospitalbranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\ihospitalbranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\abstarct\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efdoctordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efdoctordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efnewsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efnewsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\doctordtos\\doctorlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\doctordtos\\doctorlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efblogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efblogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efhospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efhospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\doctorlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\doctorlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\abstarct\\inewsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\abstarct\\inewsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\doctordtos\\doctoradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\doctordtos\\doctoradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\abstarct\\iblogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\abstarct\\iblogdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\hospitalbranchlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\hospitalbranchlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmpwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\doctoreducationlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\doctoreducationlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\hospitalbranchfeaturelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\hospitalbranchfeaturelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmpwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\dependencyresolver\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\dependencyresolver\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\concrete\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\concrete\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\blogdtos\\blogupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\blogdtos\\blogupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\doctoreducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\doctoreducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\blogdtos\\bloglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\blogdtos\\bloglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\doctorworkexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\doctorworkexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\blogdtos\\blogdetaillangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\blogdtos\\blogdetaillangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\blogdtos\\blogdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\blogdtos\\blogdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\hospitalbranchfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\hospitalbranchfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\blogdtos\\blogcontentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\blogdtos\\blogcontentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\hospitalbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\hospitalbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\blogdtos\\blogadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\blogdtos\\blogadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\hospitalbranchphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\hospitalbranchphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\newsdtos\\newscontentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\newsdtos\\newscontentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\abstarct\\idoctordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\abstarct\\idoctordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\newsdtos\\newsadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\newsdtos\\newsadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\newsdtos\\newsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\newsdtos\\newsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\newsdtos\\newsdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\newsdtos\\newsdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\newsdtos\\newslistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\newsdtos\\newslistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\newsdtos\\newsdetaillangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\newsdtos\\newsdetaillangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\newscontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\newscontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\newslanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\newslanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\newsphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\newsphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\newscontentlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\newscontentlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\concrete\\hospitalbranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\concrete\\hospitalbranchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\concrete\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\concrete\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.business\\abstarct\\ihospitalbranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9136C0-EAF8-43D2-97A4-EA5CD8AC18C9}|Bmp.Business\\Bmp.Business.csproj|solutionrelative:bmp.business\\abstarct\\ihospitalbranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.dataaccess\\abstarct\\ihospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{935F3DB5-776C-438E-928B-5C405D19949B}|Bmp.DataAccess\\Bmp.DataAccess.csproj|solutionrelative:bmp.dataaccess\\abstarct\\ihospitalbranchdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchfeaturelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA50FE6-070B-42E4-B595-52F345E23EB7}|Bmp.Entities\\Bmp.Entities.csproj|solutionrelative:bmp.entities\\dtos\\hospitalbranchdtos\\hospitalbranchfeaturelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|c:\\users\\hp\\desktop\\saraprojects\\azeraprojects\\bmpapi\\bmpwebapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338F65A1-D608-4F34-ACEE-8D3A8F5E0330}|BmpWebAPI\\Bmp.WebAPI.csproj|solutionrelative:bmpwebapi\\controllers\\hospitalbranchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,142 +166,217 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\Doctor.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\Doctor.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\Doctor.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "DocumentIndex": 14,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\Blog.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\Blog.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\Blog.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T11:10:43.799Z",
-              "IsPinned": true
+              "WhenOpened": "2024-03-28T13:26:14.417Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DoctorAddDTO.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\DoctorDTOs\\DoctorAddDTO.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\DoctorDTOs\\DoctorAddDTO.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\DoctorDTOs\\DoctorAddDTO.cs",
-              "RelativeToolTip": "Bmp.Entities\\DTOs\\DoctorDTOs\\DoctorAddDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "DocumentIndex": 15,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\News.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\News.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\News.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T11:25:44.686Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IDepartmentService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IDepartmentService.cs",
-              "RelativeToolTip": "Bmp.Business\\Abstarct\\IDepartmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:53:45.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EFDoctorDAL.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFDoctorDAL.cs",
-              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFDoctorDAL.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFDoctorDAL.cs",
-              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFDoctorDAL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:26:41.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IDoctorService.cs",
-              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IDoctorService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IDoctorService.cs",
-              "RelativeToolTip": "Bmp.Business\\Abstarct\\IDoctorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:38:37.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoctorManager.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\DoctorManager.cs",
-              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\DoctorManager.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\DoctorManager.cs",
-              "RelativeToolTip": "Bmp.Business\\Concrete\\DoctorManager.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwDAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:40:30.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HospitalBranchManager.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\HospitalBranchManager.cs",
-              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\HospitalBranchManager.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\HospitalBranchManager.cs",
-              "RelativeToolTip": "Bmp.Business\\Concrete\\HospitalBranchManager.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwDgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:40:46.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HospitalBranchController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\HospitalBranchController.cs",
-              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\HospitalBranchController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\HospitalBranchController.cs",
-              "RelativeToolTip": "BmpWebAPI\\Controllers\\HospitalBranchController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwFAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:43:06.933Z"
+              "WhenOpened": "2024-03-28T13:26:11.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "BmpWebAPI\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAiAAAA",
+              "Title": "20240328135334_news.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Migrations\\20240328135334_news.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Migrations\\20240328135334_news.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Migrations\\20240328135334_news.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Migrations\\20240328135334_news.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:43:03.382Z",
+              "WhenOpened": "2024-03-28T13:53:34.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:52:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\NewsManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\NewsManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\NewsManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Concrete\\NewsManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:51:49.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\INewsService.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\INewsService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\INewsService.cs",
+              "RelativeToolTip": "Bmp.Business\\Abstarct\\INewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:50:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\AppDbContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:46:17.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFNewsDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFNewsDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFNewsDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFNewsDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFNewsDAL.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAIwKgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:45:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
+              "RelativeToolTip": "Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:43:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Program.cs",
+              "RelativeToolTip": "BmpWebAPI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:43:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:42:49.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\BlogManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\BlogManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\BlogManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Concrete\\BlogManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:42:36.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IHospitalBranchService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IHospitalBranchService.cs",
-              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IHospitalBranchService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IHospitalBranchService.cs",
-              "RelativeToolTip": "Bmp.Business\\Abstarct\\IHospitalBranchService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IBlogService.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IBlogService.cs",
+              "RelativeToolTip": "Bmp.Business\\Abstarct\\IBlogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:38:40.047Z"
+              "WhenOpened": "2024-03-28T13:42:25.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DoctorListDTO.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\DoctorDTOs\\DoctorListDTO.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\DoctorDTOs\\DoctorListDTO.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\DoctorDTOs\\DoctorListDTO.cs",
-              "RelativeToolTip": "Bmp.Entities\\DTOs\\DoctorDTOs\\DoctorListDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAPAAAA",
+              "DocumentIndex": 9,
+              "Title": "EFBlogDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFBlogDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFBlogDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFBlogDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFBlogDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:16:26.054Z"
+              "WhenOpened": "2024-03-28T13:42:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlogListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogListDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogListDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogListDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:40:53.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBlogDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IBlogDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Abstarct\\IBlogDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IBlogDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Abstarct\\IBlogDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:39:15.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -275,225 +386,296 @@
               "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
               "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFHospitalBranchDAL.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAGEAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:26:46.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DoctorLanguage.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\DoctorLanguage.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\DoctorLanguage.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\DoctorLanguage.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\DoctorLanguage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:32:30.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HospitalBranchLanguage.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranchLanguage.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\HospitalBranchLanguage.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranchLanguage.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\HospitalBranchLanguage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:29:20.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DoctorEducationLanguage.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\DoctorEducationLanguage.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\DoctorEducationLanguage.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\DoctorEducationLanguage.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\DoctorEducationLanguage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:32:08.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HospitalBranchFeatureLanguage.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranchFeatureLanguage.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\HospitalBranchFeatureLanguage.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranchFeatureLanguage.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\HospitalBranchFeatureLanguage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:29:54.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "BmpWebAPI\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:04:54.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
-              "RelativeToolTip": "Bmp.Business\\DependencyResolver\\ServiceRegistration.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwD0AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:52:37.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EFAboutDAL.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
-              "RelativeDocumentMoniker": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
-              "RelativeToolTip": "Bmp.DataAccess\\Concrete\\EntityFramework\\EFAboutDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:33:15.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DoctorWorkExperience.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\DoctorWorkExperience.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\DoctorWorkExperience.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\DoctorWorkExperience.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\DoctorWorkExperience.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:32:21.293Z"
+              "WhenOpened": "2024-03-28T10:57:16.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "DoctorEducation.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\DoctorEducation.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\DoctorEducation.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\DoctorEducation.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\DoctorEducation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "BlogDetailLangDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogDetailLangDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogDetailLangDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogDetailLangDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogDetailLangDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:32:00.709Z"
+              "WhenOpened": "2024-03-28T13:40:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "INewsDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Abstarct\\INewsDAL.cs",
+              "RelativeDocumentMoniker": "Bmp.DataAccess\\Abstarct\\INewsDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Abstarct\\INewsDAL.cs",
+              "RelativeToolTip": "Bmp.DataAccess\\Abstarct\\INewsDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:39:11.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogDetailDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogDetailDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogDetailDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:40:49.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "HospitalBranchAddDTO.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchAddDTO.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchAddDTO.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchAddDTO.cs",
-              "RelativeToolTip": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchAddDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Title": "BlogContentListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogContentListDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogContentListDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogContentListDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogContentListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:30:09.984Z"
+              "WhenOpened": "2024-03-28T13:40:46.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "HospitalBranchFeature.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranchFeature.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\HospitalBranchFeature.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranchFeature.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\HospitalBranchFeature.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAxAAAA",
+              "Title": "BlogAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogAddDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogAddDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogAddDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:29:41.942Z"
+              "WhenOpened": "2024-03-28T13:40:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\BlogDTOs\\BlogUpdateDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\BlogDTOs\\BlogUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:32:12.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "HospitalBranchPhoto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranchPhoto.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\HospitalBranchPhoto.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranchPhoto.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\HospitalBranchPhoto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "NewsAddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsAddDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsAddDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsAddDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:29:34.349Z"
+              "WhenOpened": "2024-03-28T13:32:15.72Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "HospitalBranch.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranch.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\HospitalBranch.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\HospitalBranch.cs",
-              "RelativeToolTip": "Bmp.Entities\\Concrete\\HospitalBranch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Title": "NewsContentListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsContentListDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsContentListDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsContentListDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsContentListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:28:38.39Z"
+              "WhenOpened": "2024-03-28T13:34:46.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "NewsDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsDetailDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsDetailDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsDetailDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:34:27.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NewsDetailLangDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsDetailLangDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsDetailLangDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsDetailLangDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsDetailLangDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:33:58.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewsListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsListDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsListDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsListDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:33:41.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewsUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\NewsDTOs\\NewsUpdateDTO.cs",
+              "RelativeToolTip": "Bmp.Entities\\DTOs\\NewsDTOs\\NewsUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:33:23.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NewsContentLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\NewsContentLanguage.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\NewsContentLanguage.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\NewsContentLanguage.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\NewsContentLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:29:32.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NewsContent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\NewsContent.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\NewsContent.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\NewsContent.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\NewsContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:28:31.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NewsLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\NewsLanguage.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\NewsLanguage.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\NewsLanguage.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\NewsLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:27:40.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NewsPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\NewsPhoto.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\NewsPhoto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\NewsPhoto.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\NewsPhoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:26:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\BaseEntity.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:52:18.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\Department.cs",
+              "RelativeDocumentMoniker": "Bmp.Entities\\Concrete\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\Concrete\\Department.cs",
+              "RelativeToolTip": "Bmp.Entities\\Concrete\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:52:15.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HospitalBranchManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\HospitalBranchManager.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Concrete\\HospitalBranchManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Concrete\\HospitalBranchManager.cs",
+              "RelativeToolTip": "Bmp.Business\\Concrete\\HospitalBranchManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:21:25.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IHospitalBranchService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IHospitalBranchService.cs",
+              "RelativeDocumentMoniker": "Bmp.Business\\Abstarct\\IHospitalBranchService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Business\\Abstarct\\IHospitalBranchService.cs",
+              "RelativeToolTip": "Bmp.Business\\Abstarct\\IHospitalBranchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:21:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "IHospitalBranchDAL.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IHospitalBranchDAL.cs",
               "RelativeDocumentMoniker": "Bmp.DataAccess\\Abstarct\\IHospitalBranchDAL.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IHospitalBranchDAL.cs",
               "RelativeToolTip": "Bmp.DataAccess\\Abstarct\\IHospitalBranchDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:22:36.16Z"
+              "WhenOpened": "2024-03-28T11:21:03.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IDoctorDAL.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IDoctorDAL.cs",
-              "RelativeDocumentMoniker": "Bmp.DataAccess\\Abstarct\\IDoctorDAL.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.DataAccess\\Abstarct\\IDoctorDAL.cs",
-              "RelativeToolTip": "Bmp.DataAccess\\Abstarct\\IDoctorDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "DocumentIndex": 38,
+              "Title": "HospitalBranchController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\HospitalBranchController.cs",
+              "RelativeDocumentMoniker": "BmpWebAPI\\Controllers\\HospitalBranchController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\BmpWebAPI\\Controllers\\HospitalBranchController.cs",
+              "RelativeToolTip": "BmpWebAPI\\Controllers\\HospitalBranchController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:22:33.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "HospitalBranchDetailDTO.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchDetailDTO.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchDetailDTO.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchDetailDTO.cs",
-              "RelativeToolTip": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchDetailDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:15:29.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "HospitalBranchFeatureListDTO.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchFeatureListDTO.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchFeatureListDTO.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchFeatureListDTO.cs",
-              "RelativeToolTip": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchFeatureListDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:15:04.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "HospitalBranchListDTO.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchListDTO.cs",
-              "RelativeDocumentMoniker": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchListDTO.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\SaraProjects\\AzeraProjects\\BmpAPI\\Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchListDTO.cs",
-              "RelativeToolTip": "Bmp.Entities\\DTOs\\HospitalBranchDTOs\\HospitalBranchListDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:15:00.671Z"
+              "WhenOpened": "2024-03-28T10:56:52.311Z",
+              "EditorCaption": ""
             }
           ]
         }

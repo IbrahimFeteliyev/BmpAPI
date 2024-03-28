@@ -1,4 +1,5 @@
 ﻿using Bmp.Business.Abstarct;
+using Bmp.DataAccess.Concrete.EntityFramework;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Bmp.WebAPI.Controllers
@@ -16,15 +17,31 @@ namespace Bmp.WebAPI.Controllers
         [HttpPost("add")]
         public IActionResult AddUserRole(int userId, int roleId)
         {
-            _userRoleManager.AddUserRole(userId, roleId);
-            return Ok();
+            try
+            {
+                _userRoleManager.AddUserRole(userId, roleId);
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest(new { status = 400, message = e });
+            }
+            return Ok("okey");
         }
 
         [HttpDelete("remove")]
         public IActionResult RemoveUserRole(int userId, int roleId)
         {
-            _userRoleManager.RemoveUserRole(userId, roleId);
-            return Ok();
+            try
+            {
+                _userRoleManager.RemoveUserRole(userId, roleId);
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest(new { status = 400, message = e });
+            }
+            return Ok("okey");
         }
     }
 }

@@ -56,6 +56,9 @@ namespace Bmp.Business.DependencyResolver
             services.AddScoped<IDoctorDAL, EFDoctorDAL>();
             services.AddScoped<IDoctorService, DoctorManager>();
 
+            services.AddScoped<IBlogDAL, EFBlogDAL>();
+            services.AddScoped<IBlogService, BlogManager>();
+
             var mapperConfig = new MapperConfiguration(mc =>
             {
                 mc.AddProfile<MappingProfile>();

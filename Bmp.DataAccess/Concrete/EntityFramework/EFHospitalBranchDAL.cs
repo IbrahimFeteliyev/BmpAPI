@@ -4,8 +4,7 @@ using Bmp.DataAccess.Abstarct;
 using Bmp.Entities.Concrete;
 using Bmp.Entities.DTOs.HospitalBranchDTOs;
 using Microsoft.EntityFrameworkCore;
-using System.Net;
-using System.Net.Mail;
+
 
 
 namespace Bmp.DataAccess.Concrete.EntityFramework
@@ -151,7 +150,7 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
             return result;
         }
 
-        public HospitalBranchDetailDTO GetHospitalBranchLangById(int Id, string langCode)
+        public HospitalBranchDetailLangDTO GetHospitalBranchLangById(int Id, string langCode)
         {
             using var context = new AppDbContext();
 
@@ -159,7 +158,7 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 .Include(x => x.HospitalBranchLanguages)
                 .Include(x => x.HospitalBranchFeatures)
                 .Include(x => x.HospitalBranchPhotos)
-                .Select(x => new HospitalBranchDetailDTO()
+                .Select(x => new HospitalBranchDetailLangDTO()
                 {
                     Id = x.Id,
                     CoverPhoto = x.CoverPhoto,
@@ -172,21 +171,21 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                     BranchName = x.HospitalBranchLanguages
                         .Where(hbl => hbl.LangCode == langCode)
                         .Select(hbl => hbl.BranchName)
-                        .ToList(),
+                        .FirstOrDefault(),
                     Description = x.HospitalBranchLanguages
                         .Where(hbl => hbl.LangCode == langCode)
                         .Select(hbl => hbl.Description)
-                        .ToList(),
-                    PhotoUrl = x.HospitalBranchPhotos
+                        .FirstOrDefault(),
+                    PhotoUrls = x.HospitalBranchPhotos
                         .Select(hbp => hbp.PhotoUrl)
                         .ToList(),
-                    Features = x.HospitalBranchFeatures.Select(f => new HospitalBranchFeatureListDTO
+                    Features = x.HospitalBranchFeatures.Select(f => new HospitalBranchFeatureLangDTO
                     {
                         Count = f.Count,
                         FeatureDescription = f.HospitalBranchFeatureLanguages
                             .Where(hbfl => hbfl.LangCode == langCode)
                             .Select(hbfl => hbfl.Description)
-                            .ToList(),
+                            .FirstOrDefault(),
                         FeaturePhotoUrl = f.PhotoUrl
                     }).ToList()
                 })
@@ -222,15 +221,36 @@ namespace Bmp.DataAccess.Concrete.EntityFramework
                 context.HospitalBranchLanguages.UpdateRange(hospitalBranchLanguages);
 
 
+                //if (hospitalBranchUpdateDTO.PhotoUrl != null)
+                //{
+                //    var hospitalBranchPhotos = context.HospitalBranchPhotos.Where(x => x.HospitalBranchId == hospitalBranch.Id).ToList();
+
+                //    for (int i = 0; i < hospitalBranchPhotos.Count; i++)
+                //    {
+                //        hospitalBranchPhotos[i].PhotoUrl = await hospitalBranchUpdateDTO.PhotoUrl[i].SaveFileAsync(webRootPath);
+                //    }
+                //    context.HospitalBranchPhotos.UpdateRange(hospitalBranchPhotos);
+                //}
+
                 if (hospitalBranchUpdateDTO.PhotoUrl != null)
                 {
                     var hospitalBranchPhotos = context.HospitalBranchPhotos.Where(x => x.HospitalBranchId == hospitalBranch.Id).ToList();
 
-                    for (int i = 0; i < hospitalBranchPhotos.Count; i++)
+                    // Delete all existing photos
+                    context.HospitalBranchPhotos.RemoveRange(hospitalBranchPhotos);
+
+                    // Add new photos
+                    foreach (var photoUrl in hospitalBranchUpdateDTO.PhotoUrl)
                     {
-                        hospitalBranchPhotos[i].PhotoUrl = await hospitalBranchUpdateDTO.PhotoUrl[i].SaveFileAsync(webRootPath);
+                        var newPhoto = new HospitalBranchPhoto
+                        {
+                            HospitalBranchId = hospitalBranch.Id,
+                            PhotoUrl = await photoUrl.SaveFileAsync(webRootPath)
+                        };
+                        context.HospitalBranchPhotos.Add(newPhoto);
                     }
-                    context.HospitalBranchPhotos.UpdateRange(hospitalBranchPhotos);
+
+                    context.SaveChanges();
                 }
 
 

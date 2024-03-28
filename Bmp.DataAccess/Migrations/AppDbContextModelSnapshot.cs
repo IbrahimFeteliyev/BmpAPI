@@ -185,6 +185,141 @@ namespace Bmp.DataAccess.Migrations
                     b.ToTable("AdvantageLanguages");
                 });
 
+            modelBuilder.Entity("Bmp.Entities.Concrete.Blog", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CoverPhoto")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Blogs");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogContent", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BlogId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BlogId");
+
+                    b.ToTable("BlogContents");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogContentLanguage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BlogContentId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LangCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BlogContentId");
+
+                    b.ToTable("BlogContentLanguages");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogLanguage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BlogId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("LangCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MainContent")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MainTitle")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BlogId");
+
+                    b.ToTable("BlogLanguages");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogPhoto", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BlogId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("PhotoUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BlogId");
+
+                    b.ToTable("BlogPhotos");
+                });
+
             modelBuilder.Entity("Bmp.Entities.Concrete.Contact", b =>
                 {
                     b.Property<int>("Id")
@@ -706,6 +841,141 @@ namespace Bmp.DataAccess.Migrations
                     b.ToTable("IntroductionLanguages");
                 });
 
+            modelBuilder.Entity("Bmp.Entities.Concrete.News", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CoverPhoto")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Newss");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsContent", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("NewsId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NewsId");
+
+                    b.ToTable("NewsContents");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsContentLanguage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LangCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("NewsContentId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NewsContentId");
+
+                    b.ToTable("NewsContentLanguages");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsLanguage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("LangCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MainContent")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MainTitle")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("NewsId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NewsId");
+
+                    b.ToTable("NewsLanguages");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsPhoto", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("NewsId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("PhotoUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NewsId");
+
+                    b.ToTable("NewsPhotos");
+                });
+
             modelBuilder.Entity("Bmp.Entities.Concrete.ShortInfo", b =>
                 {
                     b.Property<int>("Id")
@@ -794,6 +1064,50 @@ namespace Bmp.DataAccess.Migrations
                         .IsRequired();
 
                     b.Navigation("Advantage");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogContent", b =>
+                {
+                    b.HasOne("Bmp.Entities.Concrete.Blog", "Blog")
+                        .WithMany("BlogContents")
+                        .HasForeignKey("BlogId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Blog");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogContentLanguage", b =>
+                {
+                    b.HasOne("Bmp.Entities.Concrete.BlogContent", "BlogContent")
+                        .WithMany("BlogContentLanguages")
+                        .HasForeignKey("BlogContentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("BlogContent");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogLanguage", b =>
+                {
+                    b.HasOne("Bmp.Entities.Concrete.Blog", "Blog")
+                        .WithMany("BlogLanguages")
+                        .HasForeignKey("BlogId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Blog");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogPhoto", b =>
+                {
+                    b.HasOne("Bmp.Entities.Concrete.Blog", "Blog")
+                        .WithMany("BlogPhotos")
+                        .HasForeignKey("BlogId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Blog");
                 });
 
             modelBuilder.Entity("Bmp.Entities.Concrete.DepartmentFeature", b =>
@@ -958,6 +1272,50 @@ namespace Bmp.DataAccess.Migrations
                     b.Navigation("Introduction");
                 });
 
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsContent", b =>
+                {
+                    b.HasOne("Bmp.Entities.Concrete.News", "News")
+                        .WithMany("NewsContents")
+                        .HasForeignKey("NewsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("News");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsContentLanguage", b =>
+                {
+                    b.HasOne("Bmp.Entities.Concrete.NewsContent", "NewsContent")
+                        .WithMany("NewsContentLanguages")
+                        .HasForeignKey("NewsContentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("NewsContent");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsLanguage", b =>
+                {
+                    b.HasOne("Bmp.Entities.Concrete.News", "News")
+                        .WithMany("NewsLanguages")
+                        .HasForeignKey("NewsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("News");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsPhoto", b =>
+                {
+                    b.HasOne("Bmp.Entities.Concrete.News", "News")
+                        .WithMany("NewsPhotos")
+                        .HasForeignKey("NewsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("News");
+                });
+
             modelBuilder.Entity("Bmp.Entities.Concrete.ShortInfoLanguage", b =>
                 {
                     b.HasOne("Bmp.Entities.Concrete.ShortInfo", "ShortInfo")
@@ -977,6 +1335,20 @@ namespace Bmp.DataAccess.Migrations
             modelBuilder.Entity("Bmp.Entities.Concrete.Advantage", b =>
                 {
                     b.Navigation("AdvantageLanguages");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.Blog", b =>
+                {
+                    b.Navigation("BlogContents");
+
+                    b.Navigation("BlogLanguages");
+
+                    b.Navigation("BlogPhotos");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.BlogContent", b =>
+                {
+                    b.Navigation("BlogContentLanguages");
                 });
 
             modelBuilder.Entity("Bmp.Entities.Concrete.Department", b =>
@@ -1027,6 +1399,20 @@ namespace Bmp.DataAccess.Migrations
             modelBuilder.Entity("Bmp.Entities.Concrete.Introduction", b =>
                 {
                     b.Navigation("IntroductionLanguages");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.News", b =>
+                {
+                    b.Navigation("NewsContents");
+
+                    b.Navigation("NewsLanguages");
+
+                    b.Navigation("NewsPhotos");
+                });
+
+            modelBuilder.Entity("Bmp.Entities.Concrete.NewsContent", b =>
+                {
+                    b.Navigation("NewsContentLanguages");
                 });
 
             modelBuilder.Entity("Bmp.Entities.Concrete.ShortInfo", b =>

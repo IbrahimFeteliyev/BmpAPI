@@ -48,10 +48,10 @@ namespace Bmp.Business.Concrete
             return new SuccessDataResult<HospitalBranchDetailDTO>(result);
         }
 
-        public IDataResult<HospitalBranchDetailDTO> GetHospitalBranchLangById(int id, string langCode)
+        public IDataResult<HospitalBranchDetailLangDTO> GetHospitalBranchLangById(int id, string langCode)
         {
             var result = _hospitalBranchDAL.GetHospitalBranchLangById(id, langCode);
-            return new SuccessDataResult<HospitalBranchDetailDTO>(result);
+            return new SuccessDataResult<HospitalBranchDetailLangDTO>(result);
         }
 
         public IResult RemoveHospitalBranch(int id)

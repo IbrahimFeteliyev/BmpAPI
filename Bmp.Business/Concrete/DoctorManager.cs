@@ -5,7 +5,7 @@ using Bmp.Core.Utilities.Results.Concrete.SuccessResults;
 using Bmp.DataAccess.Abstarct;
 using Bmp.DataAccess.Concrete.EntityFramework;
 using Bmp.Entities.DTOs.DoctorDTOs;
-using Bmp.Entities.DTOs.HospitalBranchDTOs;
+using Bmp.Entities.DTOs.DoctorDTOs;
 
 namespace Bmp.Business.Concrete
 {
@@ -31,6 +31,19 @@ namespace Bmp.Business.Concrete
             }
         }
 
+        public async Task<IResult> UpdateDoctorByLanguageAsync(DoctorUpdateDTO doctorUpdateDTO, string webRootPath)
+        {
+            var result = await _doctorDAL.UpdateDoctor(doctorUpdateDTO, webRootPath);
+            if (result)
+            {
+                return new SuccessResult("Doctor updated successfully");
+            }
+            else
+            {
+                return new ErrorResult();
+            }
+        }
+
         public IDataResult<List<DoctorListDTO>> GetAllDoctors(string langCode)
         {
             try
@@ -42,6 +55,17 @@ namespace Bmp.Business.Concrete
             {
                 return new ErrorDataResult<List<DoctorListDTO>>(ex.Message);
             }
+        }
+        public IDataResult<DoctorDetailDTO> GetDoctorById(int id)
+        {
+            var result = _doctorDAL.GetDoctorByIdAdmin(id);
+            return new SuccessDataResult<DoctorDetailDTO>(result);
+        }
+
+        public IDataResult<DoctorDetailLangDTO> GetDoctorLangById(int id, string langCode)
+        {
+            var result = _doctorDAL.GetDoctorLangById(id, langCode);
+            return new SuccessDataResult<DoctorDetailLangDTO>(result);
         }
 
         public IResult RemoveDoctor(int id)

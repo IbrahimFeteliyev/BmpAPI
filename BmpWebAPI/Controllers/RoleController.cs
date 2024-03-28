@@ -18,6 +18,7 @@ namespace Bmp.WebAPI.Controllers
             _roleManager = roleManager;
         }
 
+        
         [HttpGet("getall")]
         public IActionResult GetAllRoles()
         {
@@ -44,7 +45,7 @@ namespace Bmp.WebAPI.Controllers
             }
             catch (Exception e)
             {
-                return Ok(new { status = 400, message = e });
+                return BadRequest(new { status = 400, message = e });
             }
 
             return Ok(new { status = 200, message = "Role elave olundu." });
